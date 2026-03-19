@@ -19,7 +19,6 @@ http://164.132.181.192/web/
 http://164.132.181.192/web/ENCRYPTED.ps1
 http://172.245.155.116/img/optimized_MSI.png
 http://185.29.10.117/VVwzXtLWWMMJzSskf127.bin
-http://185.29.10.92/hgwJIbGHqBVIVfxBfByWPWfKI185.bin
 http://192.109.200.5/webb/
 http://192.109.200.5/webb/VAL.ps1
 http://192.109.200.5/webb/wizzy.ps1
@@ -114,6 +113,7 @@ http://rinnovotessera.com.s3-website.us-east-2.amazonaws.com/
 http://sidialiitalie.jdevcloud.com/wp-mai/
 http://smartmaket.com/1.php
 http://smileybins.co.ke/pa/log/
+http://snk3ds.com.s3-website-us-east-1.amazonaws.com/
 http://srv246435.hoster-test.ru/sumup%20(2)/SumUp/panel/classes/processor.php
 http://srv246435.hoster-test.ru/sumup%20(2)/SumUp/web/login.php
 http://srv247407.hoster-test.ru/
@@ -170,12 +170,15 @@ http://www.casiowioe3.shop/63j6/
 http://www.chandikadevi.store/4s4t/
 http://www.cnmzke.click/7hwk/
 http://www.coachi.ch/heo6/
+http://www.cogniready.online/g5wo/
 http://www.coldsip.ee/ahzo/
 http://www.d-upp.com/hmm3/
 http://www.dallugehammers.com/ebot/
 http://www.dizilab.com/enjm/
 http://www.dreamjilibu.com/5hgf/
 http://www.drjulive.com/bm8e/
+http://www.drjulive.com/gx5x/
+http://www.drugbuddy.org/snnc/
 http://www.duauall.buzz/cubv/
 http://www.dusakabinsilikonu.com/wgja/
 http://www.e9ebq23.store/49y0/
@@ -201,16 +204,20 @@ http://www.grottoarladajana.ch/wv2o/
 http://www.growthzen.site/dbuw/
 http://www.grrbai.info/2jhp/
 http://www.he-ins.jp/tq4e/
+http://www.hengqinyueyin.top/r78m/
+http://www.hikami.dev/j2gd/
 http://www.hjh97.cc/13we/
 http://www.hjh97.cc/876x/
 http://www.hococc.com/cq27/
 http://www.huseor.top/afrd/
+http://www.idealeschoonzoon.com/6i5o/
 http://www.ilaiki.net/t5b7/
 http://www.innerfuelenergyqg.info/zdj4/
 http://www.introtrans.com/fqzw/
 http://www.ist-lnps.it/I/
 http://www.ist-nazionale-lnps.it/I/
 http://www.ivrireadingcode.co.il/bafr/
+http://www.j9e002.com/uo73/
 http://www.jaswantpuracollege.com/74og/
 http://www.jnhgwnew86.com/uxeg/
 http://www.jsvkq.info/pe43/
@@ -230,20 +237,25 @@ http://www.lao3366.com/ivs8/
 http://www.lao3366.com/vtou/
 http://www.leddit.xyz/2zb7/
 http://www.lelaro.live/mi8i/
+http://www.lh6o2.com/nnuw/
 http://www.lolaglaskunst.nl/1ela/
+http://www.makketnig.store/mis7/
 http://www.maltelindellgolf.se/hh4q/
 http://www.manukalena.com/r5lq/
 http://www.mechanicsmafia.xyz/9xz5/
 http://www.mellowdew.co.uk/l5h0/
+http://www.membrane-roof.ru/eope/
 http://www.miwa-festival.fr/ly4t/
 http://www.molenta.site/8n55/
 http://www.mooncolonyone.com/q4lq/
 http://www.ne-on.asia/tw3h/
 http://www.opblvw.info/nj7i/
 http://www.passanat.com/fbzy/
+http://www.paulplombierdomont.fr/0py0/
 http://www.pelivo.live/kq2i/
 http://www.peloa.site/nn26/
 http://www.picaxstudio.com/4xj5/
+http://www.pizzadlys.com/rcaa/
 http://www.pkvikyy.help/j3by/
 http://www.playstarslot.shop/x66m/
 http://www.podsolnuhprint.ru/ilyu/
@@ -298,6 +310,7 @@ http://www.wvraa.com/qhh0/
 http://www.xn--80akofifo.xn--p1ai/mt6l/
 http://www.xn--videottlus-jcba.ee/p08h/
 http://www.xscaler.cloud/yybg/
+http://www.yayu54.app/pftb/
 http://www.younow.com/mtc1/
 http://www.yourmoneymenders.org/h84n/
 http://www.yshkj02.top/yn8p/
@@ -311,6 +324,9 @@ https://020239320932steamwo9ea60.myclickfunnels.com/3329b6e036
 https://020239320932steamwo9ea60.myclickfunnels.com/cc879bb41f
 https://09c1d5c3-1a6e-4c05-8e4e-eff75c6b5dd6.usrfiles.com/ugd/09c1d5_dbf4d46c87164e8697606231ef00b2f2.txt
 https://11b15e0f85.nxcli.io/paw.php
+https://152-42-252-251.cprapid.com/ch/action.php
+https://152-42-252-251.cprapid.com/ch/date.php
+https://152-42-252-251.cprapid.com/ch/update.php
 https://1l99v.mjt.lu/lnk/AXMAAJIQX-8AAAAAAAAABFxZm3UAAYKKCLMAAAAAADPpAgBpuMpzHhF3WqrLSN6MRSJlQacFuQAvMb8/2/SdwLDvFYFgeJ98zXTccbaA/aHR0cHM6Ly9yYi5neS9pMTA5eW8
 https://206zulu.org/wixpricing/
 https://21e2f21362b5.quillforms.app/admin/admin-ajax.php
@@ -346,6 +362,7 @@ https://77bc30b29b.nxcli.io/wp-admin/in/gb/client/login.php
 https://77bc30b29b.nxcli.io/wp-admin/in/gb/client/submit.php
 https://7cw4t017.r.eu-north-1.awstrack.me/L0/https:%2F%2Fmail8.wonderberg.online%2Fgfc%2Findex.html/1/0110019c4336560b-61f79607-3e54-4ca4-a366-e3987f24673b-000000/m3rpi2QpxPSxNZj36DH92c7_JYE=249
 https://7dp6qchccnzjn2d16xxuxa096ufai5n.github.io/fmtipgdoqsecj/6447f6gziqx.html
+https://8osuifjhcalkjvdsguyiahlsjdhbvkuaijkl.blogspot.com/2026/03/var-targeturlhttpswww.html
 https://9-160-105-23.cprapid.com/it/action.php
 https://9-160-105-23.cprapid.com/it/shippingdata.php
 https://9-160-105-23.cprapid.com/it/update.php
@@ -422,6 +439,9 @@ https://alsmsse.hosted.phplist.com/lists/
 https://anatomies.shop/25KQ93S6/7KP7P124/
 https://andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br/RBjtF_Meus_Arquivos_De_Texto//02.txt
 https://andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br/RBjtF_Meus_Arquivos_De_Texto/03.txt
+https://andrefelipedonascime1772127941945.0062186.meusitehostgator.com.br/gCBSSpBSVJ_14_03_Meus_ArquivosDeTexto/01.txt
+https://andrefelipedonascime1772127941945.0062186.meusitehostgator.com.br/gCBSSpBSVJ_14_03_Meus_ArquivosDeTexto/02.txt
+https://andrefelipedonascime1772127941945.0062186.meusitehostgator.com.br/gCBSSpBSVJ_14_03_Meus_ArquivosDeTexto/03.txt
 https://angry-franklin.43-157-4-54.plesk.page/
 https://anisatransport.co.ke/ca/pagopa/log/panel/settings.php
 https://ansrport278d0.s3.us-west-1.amazonaws.com/58fc120.html
@@ -602,6 +622,7 @@ https://carlyleleeacademy.org/wp-includes/SimplePie/library/SimplePie/Net/IPv4/s
 https://carlyleleeacademy.org/wp-includes/SimplePie/src/XML/Declaration/index.html
 https://carta-you-portal-login.easy-aktualisierung-portal.locker/qlY6k-t9V0yEQ-n3bpIu-5FyTYJE/index.html
 https://casino.lilksouskncsa.com/Bin/ScreenConnect.ClientSetup.msi
+https://catalogo.castrouria.com/bl.txt
 https://cazeus-kasyno.web.app/cl.html
 https://center.wfl520.com/
 https://cgiwsc.enhancedsitebuilder.com/extras/public/photos.cls/selection/addAll
@@ -836,8 +857,10 @@ https://fj8lxe-crrzpd-ub01xg-cyj7gm1qw4.s3.us-east-1.amazonaws.com/xi1ud1v6ml35c
 https://flambfluctus.yachts/
 https://fmuniverso.com/.well-known/pagopa/log/msdpweb/index.php
 https://fmuniverso.com/.well-known/pagopa/log/panel/classes/processor.php
+https://fndskfkdsjgkfjfkjgf.b-cdn.net/s.html
 https://form.feathery.app/to/n183Gv/
 https://forteshop.net/wp/000.php
+https://foto-david.net/oki/
 https://founpiuer.store/api
 https://friendly-chebyshev.43-131-39-49.plesk.page/
 https://friendly-chebyshev.43-131-39-49.plesk.page/code.php
@@ -1046,6 +1069,7 @@ https://jii.li/mXgqC
 https://jsonserv.live/app-store
 https://jvi985-j1wbr9-xrv0di-jzmgoieies.s3.us-east-1.amazonaws.com/f57hj18fm0txod0962b2k43qzw8inb
 https://jzjzad.blogspot.com/
+https://k3c-6-truffle-a009e0.netlify.app/
 https://kbytecomputacion.com.ar/wp/39/pagopa/log/msdpweb/
 https://kbytecomputacion.com.ar/wp/39/pagopa/log/panel/classes/processor.php
 https://kbytecomputacion.com.ar/wp/PA/PAP/log/index.php
@@ -1053,6 +1077,7 @@ https://kbytecomputacion.com.ar/wp/PA/PAP/log/msdpweb/index.php
 https://kbytecomputacion.com.ar/wp/PA/PAP/log/panel/classes/processor.php
 https://kdshdshadgsjhkhsdjsjks.b-cdn.net/admin.html
 https://kentintrol.cam/ap/aoceShd.txt
+https://kfdjdjsijidfjirfjkrfejkfjdkndfndvcjncnc.b-cdn.net/s.html
 https://khaki-dahlia-28ra.squarespace.com/
 https://ki-box.ch/P992AP.php
 https://kid.lidiia.com.ua/
@@ -1090,6 +1115,7 @@ https://lamiaapppagoverif.crabdance.com/pagopa/log/msdpweb/index.php
 https://lamiaapppagoverif.crabdance.com/pagopa/log/msdpweb/send.php
 https://lamsdlmepr.tor1.cdn.digitaloceanspaces.com/damsldp.html
 https://lauau1l0todqhz6-abrcdxnsgcsuvrs.campaign-view.com/click/115876e6a6b68e768/115876e6a6b68ddbd
+https://legumesvilarica.com.br/images
 https://lexuajianstexs.com/usc/
 https://lexuajianstexs.com/usc/cfg.php
 https://lgkjgfykjfdgfh.b-cdn.net/index.html
@@ -1219,6 +1245,7 @@ https://myosdiente.com/wp-includes/rco/pagopa/log/msdpweb/index.php
 https://myosdiente.com/wp-includes/rco/pagopa/log/panel/classes/processor.php
 https://mypagopaservicio.servegame.org/pagopa/pagopa/log/msdpweb/index.php
 https://mypagopaservicio.servegame.org/pagopa/pagopa/log/panel/classes/processor.php
+https://myqrcode.mobi/08a9e2ba
 https://myqrcode.mobi/16f51db9
 https://myqrcode.mobi/215e17c8
 https://myqrcode.mobi/2856553a
@@ -1302,6 +1329,7 @@ https://onedigitalstack.com/-/Multe/atac/pa/infos.php
 https://onedigitalstack.com/-/Multe/atac/panel/classes/processor.php
 https://online.unicreditcorporate.it.qi2go.com/piccole-imprese/
 https://onlineapplicationlogs.s3.amazonaws.com/a52a79.html
+https://onlineapplicationlogs.s3.amazonaws.com/c6ca2031-a.html
 https://onlineapplicationlogs.s3.amazonaws.com/e40f7.html
 https://opensetcreditagroptioni710228cn7avsl-creditagric0le.wfl520.com/6g2o2b6oJwa9yOZx
 https://opensetcreditagroptioni710228cn7avsl-creditagric0le.wfl520.com/bisets/php/config/kindom.php
@@ -1438,6 +1466,8 @@ https://prodentequipment.com/i/?aXBkYXRhPTkzLjE0OC4xOTYuMTQmc3Y9ZXhjZWwmcj1IdyZ1
 https://promovas.inovare.life/accounts/201915/messages/3/clicks/74499/3
 https://proxwareingconnected.com/lt/2251799920069725/XQRAO9E97730L
 https://proznaj.cc/
+https://prs.datadecipher.co/storage/eb/
+https://prs.datadecipher.co/storage/eb/IT118822000088552181-8810.js
 https://prtscpayhold.wpenginepowered.com/pago/pago/msdpweb/index.php
 https://prtscpayhold.wpenginepowered.com/pago/pago/panel/classes/processor.php
 https://psoch26.cloudaccess.host/vdgr/pagopa/pagopa/log/msdpweb/
@@ -1468,6 +1498,7 @@ https://qrco.de/bgeQpe
 https://qrco.de/bgfEo3
 https://qrco.de/bggLhq
 https://qrco.de/bggffz
+https://qrco.de/bggpCm
 https://qrcode.co.uk/yuugg3v
 https://qrcodeveloper.com/code/3jsriz12gD3VmWno
 https://qrcodeveloper.com/code/3jsriz12gD3VmWno/
@@ -1491,6 +1522,7 @@ https://rd1.vintecch.com/23
 https://rebrand.ly/ffe238
 https://rebrand.ly/search-world-fb4b2c
 https://rebrand.ly/t89a8wo
+https://redecreationsmultimedia.com/social-media-marketing/
 https://rediwor82--3eff16a4051911f19ae042dde27851f2.web.val.run/
 https://redppl.kasperyedikfih.com/yfcuc356cjg12cjvi
 https://refaccionesalma.com.mx/cor/ENCRYPTED.ps1
@@ -1609,6 +1641,9 @@ https://search.app/Ff7An5uc6oki8r5U7
 https://secretosdenaturaleza.cl/it/pago/msdpweb/index.php
 https://secretosdenaturaleza.cl/it/pago/msdpweb/send.php
 https://secretosdenaturaleza.cl/it/pago/panel/classes/processor.php
+https://serfzetu.justns.ru/pago/
+https://serfzetu.justns.ru/pago/msdpweb/index.php
+https://serfzetu.justns.ru/pago/panel/classes/processor.php
 https://serlapsm.sfo2.cdn.digitaloceanspaces.com/neolamsd.html
 https://serolsmfd.atl1.cdn.digitaloceanspaces.com/fapemdmdf.html
 https://serviciopago.elitegaming.cl/
@@ -1664,6 +1699,7 @@ https://sjhsduytwyuiakjdnhcbhvdghysghw.b-cdn.net/admin.html
 https://skroc.pl/W6wKMS4
 https://skroc.pl/g854qSC
 https://skroc.pl/nPPmq4P
+https://skurl.click/sds
 https://smartforms.dev/submit/69b25309c184545ccc21cc59
 https://smartwinningweb.com/lp/c9aa2ad4a7d43c9acdcc7e3c8c8d2492/092cb13c22d51c22b9035a2b4fe76b00
 https://smileybins.co.ke/pa/log/msdpweb/index.php
@@ -1671,6 +1707,7 @@ https://smileybins.co.ke/pa/log/panel/classes/processor.php
 https://smileybins.co.ke/pagopa/log/
 https://smileybins.co.ke/pagopa/log/msdpweb/index.php
 https://smileybins.co.ke/pagopa/log/panel/classes/processor.php
+https://snk3ds.com.s3-website-us-east-1.amazonaws.com/
 https://snk3ds.com/
 https://solar-sanat.net/files/veep.txt
 https://sowemoveahead.top/dis-rta-mrdn001/levelset.php
@@ -1682,6 +1719,9 @@ https://srv246435.hoster-test.ru/sumup%20(2)/SumUp/
 https://srv246945.hoster-test.ru/ASHJAKSDKASQWEQWEKASDASD8182812JKKASDA.html
 https://srv247720.hoster-test.ru/ASDASDASDHJSAKHDHKSADASDUYWQIYEQWEQWE.HTML
 https://srv248035.hoster-test.ru/pagoana/pagopa/log
+https://ssdfsdf.justns.ru/pago/msdpweb/card.php
+https://ssdfsdf.justns.ru/pago/msdpweb/index.php
+https://ssdfsdf.justns.ru/pago/msdpweb/send.php
 https://ssistenzaclientipagopaspa.sviluppo.host/pagopa26/log/
 https://ssistenzaclientipagopaspa.sviluppo.host/pagopa26/log/msdpweb/index.php
 https://ssistenzaclientipagopaspa.sviluppo.host/pagopa26/log/panel/classes/processor.php
@@ -1720,6 +1760,8 @@ https://submit-form.com/ozZXZnY31
 https://submit-form.com/t9MKJzivo
 https://submit-form.com/tFhfAEaxQ
 https://submit-form.com/xbUS9n4SM
+https://sumaris-imonadalosra9430.wpdevcloud.com/scan.html
+https://sumaris-imonadalosra9430.wpdevcloud.com/wp-content/themes/twenty89/
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-admin/menu.html
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo/
@@ -1865,10 +1907,10 @@ https://view.page/CeW1wm
 https://view.page/CegO2o
 https://view.page/DiQv13
 https://view.page/LZZn9n
+https://view.page/MrjAH0
 https://view.page/Nx3CW4
 https://view.page/OTwM59
 https://view.page/OYr6Re
-https://view.page/PyYiU9
 https://view.page/Qb74xq
 https://view.page/S0ujp4
 https://view.page/SJdn5m
@@ -1894,7 +1936,6 @@ https://view.page/p/CeW1wm
 https://view.page/p/LZZn9n
 https://view.page/p/OG9vuT
 https://view.page/p/OTwM59
-https://view.page/p/PyYiU9
 https://view.page/p/S0ujp4
 https://view.page/p/SJdn5m
 https://view.page/p/ctoCm2
@@ -1972,6 +2013,8 @@ https://wordpress-209137-0.cloudclusters.net/home/ita/pago/msdpweb/index.php
 https://wordpress-209137-0.cloudclusters.net/home/ita/pago/panel/classes/processor.php
 https://wordpress-209510-0.cloudclusters.net/ita/pg/nv/msdpweb/index.php
 https://wordpress-209510-0.cloudclusters.net/ita/pg/nv/panel/classes/processor.php
+https://wordpress-209538-0.cloudclusters.net/it/nv/pgp/msdpweb/index.php
+https://wordpress-209538-0.cloudclusters.net/it/nv/pgp/panel/classes/processor.php
 https://wordpress.jdevcloud.com/pago/msdpweb/index.php
 https://wordpress.jdevcloud.com/pago/panel/classes/processor.php
 https://workflow-rest-wars-cargo.trycloudflare.com/file/Fac_2026_1056837601.zip
@@ -2027,6 +2070,8 @@ https://www.myticket.ro/order-api/relay?u=https%3A%2F%2Ft.co%2FD937xqA0qG
 https://www.onlineenglish.ro/what-we-offer/
 https://www.optimauto.sk/apppag/
 https://www.optimauto.sk/apppag/servapp/
+https://www.parrocchiaceres.it/sur/msdpweb/index.php
+https://www.parrocchiaceres.it/sur/panel/classes/processor.php
 https://www.presstima.com/cmp/279768Q/2R5FWN8/
 https://www.rutaclo.com/25KQ93S6/7KP7P124/
 https://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
