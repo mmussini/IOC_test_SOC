@@ -208,6 +208,7 @@ alati.la
 ale-soun.com-en-us.info
 ale-soun.me-info.io
 ale763873497ty73.id-me.io
+aleksg.7thblock.dev
 aler-get.me-ar.cc
 aler-new.com-cc.io
 aler-new.me-ar.cc
@@ -289,6 +290,7 @@ app-care.cc
 app-cloudns27648536-areaclienti002.mhhliving.com.au
 app-info.app
 app-info.me
+app-main-inps.site
 app-pagopa-account-42343983393llsere--infos122.codeanyapp.com
 app-signal.org-status.nl
 app-totok.io
@@ -363,6 +365,7 @@ argentinatrails.com.ar
 ariapclerna.jdevcloud.com
 aropmsl.atl1.cdn.digitaloceanspaces.com
 arrt.geaavhiphgood.live
+art-in-time.org
 artistiquehair.ro
 asakura.in
 asdad21ww.freeddns.org
@@ -405,6 +408,7 @@ auth.mailbdf-bh.net
 auth.rec.ar-info.co
 authvesrng.im
 autismdefined.net
+auto-loncaric.hr
 autoconfig.com-service.info
 autoconfig.host.zm-me.co
 autoconfig.id-ar.me
@@ -425,6 +429,7 @@ avatar.ttaeae.com
 avelinadasilveira.com
 avianca.sxjgo.cc
 avvio1232.hosted.phplist.com
+avvioavvio.hosted.phplist.com
 avvipagose.temp.swtest.ru
 aw2o25forsbc.camdvr.org
 awcc001jdaigfwdagdcew.giize.com
@@ -553,6 +558,7 @@ btmob.xyz
 bullandbeartravels.co.tz
 burmap.com
 busy-wright.43-157-6-138.plesk.page
+buyit.ae
 bv-dienstleistungen.de
 bvaco.com
 bvkfztg.me-relay.org
@@ -627,6 +633,7 @@ check.payable-invoice.com
 check.updateconfig.com
 checkdata.com-ae.org
 checkdata.en-id.net
+checkout-pagopa.site
 checkoutpartner.xyz
 chenglongcantho.com
 cheship.cyou
@@ -737,6 +744,7 @@ concejwkfih9ghksjdfsdf.datastatistics.nl
 condelx.cyou
 condfkdsf34ihfsdf.mfadata.cc
 condjfh954thfdg.web-signal.org
+conferma.lozonzonweringen.nl
 config.googleslb.com
 config.updatesdk.com
 confirm-id.en-uk.cc
@@ -1127,6 +1135,7 @@ fdueuyqurjhuryfhrokrfe.b-cdn.net
 feb18.freeddns.org
 febirianet.jdevcloud.com
 fekllriokjrfhfjuijkfjrfiufjrkjgfjfrkifriowekjnmegwhf.b-cdn.net
+fervent-booth.43-131-35-35.plesk.page
 ff050e03-e7c3-44f0-9366-b7b739da0d9e.com-info.io
 ffosies2024.camdvr.org
 fgdedd1dww.gleeze.com
@@ -1314,6 +1323,7 @@ greatgiftsnow.com
 greekcs.cyou
 green59.s3.ap-south-1.amazonaws.com
 grupounetcom.eu
+gscandelu.it
 gsonx.com
 gstatic-fonts.google.svr-drive.com
 gstatic-fonts.share.svr-drive.com
@@ -1674,6 +1684,7 @@ k3c-6-truffle-a009e0.netlify.app
 kaidaisoo.contractors
 kajkjsa.j34idf.ar-id.cc
 kakapupuneww.com
+kanmktabof2.blogspot.com
 kasperyedikfih.com
 kb.com-ae.org
 kbytecomputacion.com.ar
@@ -1708,6 +1719,7 @@ koliman.nyc3.digitaloceanspaces.com
 kolvani.xyz
 komodo.hr
 krem-dla-tatuazy.pl
+krengtest.se
 kskxoscieontrolanel.gleeze.com
 ksv01sokudwongsj.theworkpc.com
 kswqfmry.ar-id.co
@@ -1769,6 +1781,7 @@ linkpc.net
 links.truthsocial.com
 linktosite.co
 littlep.top
+livemala.com
 livenettvtv.com
 lkboasprqw.com
 lkhpihf.com
@@ -1821,6 +1834,7 @@ loja.addplus.co.ao
 looppli.cyou
 losiesca.ddnsgeek.com
 lousatextil.cloudaccess.host
+lozonzonweringen.nl
 lps2staging.ddnsfree.com
 lrvpebfvi.dentalfraeszentrum.de
 lsls.casacam.net
@@ -2008,9 +2022,11 @@ mailbdf-bh.net
 mailer.sgnlapp.info
 mailsdy.gleeze.com
 mailserver03.mydonor.eu
+mailshare.it
 mailtiscaliitgestioneutenti.weebly.com
 mailx0.me
 main-auth.ms-storedata.de
+main-inps.site
 main.securesafezone.com
 main.webclikpro.com
 maisqsssssm.sverify-apple.com-info.io
@@ -2200,6 +2216,7 @@ mysumup.likescandy.com
 mziyytm5ytk.ahroar.com
 mzkkajh4rh3if9f3j4.re-ac.cc
 mzoapmsla.sfo3.cdn.digitaloceanspaces.com
+n26-france.app
 n26-online.app
 n26-procedura.app
 n26verifica.app
@@ -2244,6 +2261,7 @@ newupdate.app
 neww.com-auth.cc
 neww.com-ln.info
 neww.me-ar.io
+nexi.gscandelu.it
 nfck.loseyourip.com
 ngovbr.cc
 ngy2yjq0otlj.ahroar.com
@@ -2435,6 +2453,7 @@ pagopa-regolare-direttamente.3dfrezovanie.eu
 pagopa-regolare-direttamente.fluwia.cz
 pagopa-s-p-a.cesbuilder.com
 pagopa-service-gov-it.com-auth.info
+pagopa-team-account-att-infos122.codeanyapp.com
 pagopa-up-account-mkl233ds539408.codeanyapp.com
 pagopa.justns.ru
 pagopa2026.sviluppo.host
@@ -2550,6 +2569,7 @@ prodentequipment.com
 projectdocshare.top
 prolificrevokement.space
 promovas.inovare.life
+protecaocartao.online
 protect-bdf-bh.owa365.org
 protect.accountservice.cc
 protectcc.online
@@ -2600,6 +2620,7 @@ r60-1-brioche-81d8b6.netlify.app
 rabbit.ooguy.com
 raffle.cloudaccess.host
 raifdevelopments.com
+rakitgolinta.blogspot.com
 random.en-account.info
 rangetelecom.com
 rayalaseemakings.in
@@ -2631,6 +2652,7 @@ reddk.santamariadelparto.it
 rediwor82--3eff16a4051911f19ae042dde27851f2.web.val.run
 redppl.kasperyedikfih.com
 refaccionesalma.com.mx
+referenceonly.dnsget.org
 refinattaacabamentos.com.br
 regis.bjorkholmen.se
 regreso.cyou
@@ -2719,7 +2741,9 @@ s-dfango-7akpd.significants.co.uk
 s-dfango-fjind.newfastlines.com
 s-guaranted21722.stragal.co.uk
 s-guaranted23112.droneyardsnew.com
+s-plan24019.linol.co.uk
 s-plan56711.aquamaroon.co.uk
+s-plan57916.gyrose.co.uk
 s-plan59379.linol.co.uk
 s-plan74258.quicknestling.co.uk
 s-plan79251.oflandand.co.uk
@@ -2755,6 +2779,7 @@ sanidad-tsi-renovacions.com
 sanitagiornamento.com
 sanitaregiona.com
 sanitaria-info.com
+sanitariasistematess.com
 sanitariassistenza-it.com
 sanitassupports.com
 sanitasupporto-it.com
@@ -2767,6 +2792,7 @@ sao.ttbebe.com
 sapple.com-info.io
 sardweb.org
 sasaf.mation.re
+satcomvision.net
 satmopal.sfo3.cdn.digitaloceanspaces.com
 saudiab.cyou
 savicleaning.com
@@ -3020,6 +3046,7 @@ staging.entity-me.online
 staging.mailbdf-bh.net
 staging.sgnlapp.info
 stanislavmarhold.cz
+starmedicalgh.com
 startg-cajeta-a92e83update.netlify.app
 startmenuexperiencehost.ydns.eu
 starto-server.firma-ak.de
@@ -3122,6 +3149,7 @@ teamagopait1.jdevcloud.com
 teammaingaxa1.t.mydomain.zone
 teamrising.ae
 teatrium.org
+teazaz.com
 tehisdjsd.ar-info.co
 telcomn.giize.com
 telegram.com-en.io
@@ -3136,6 +3164,7 @@ tess.me-ar.io
 tesserarin.com
 tesserarinnova.com
 tesserasanitalie.com
+tessesanita.com
 tessr3ds.com
 tessr3ds.s3-website.us-east-2.amazonaws.com
 test-acc.com-ln.info
@@ -3345,6 +3374,7 @@ valfanto.com
 validate-authn.tication.net
 validate.accountservice.cc
 vals.bumbleshrimp.com
+vargenthor-magento.krengtest.se
 vass.ooguy.com
 vass2025.casacam.net
 vault88x.secure-efficient2.su
@@ -3567,6 +3597,7 @@ www.casiowioe3.shop
 www.ceilinteriorcandleprotect.autos
 www.centrale-rimborso.sbs
 www.chandikadevi.store
+www.checkout-pagopa.site
 www.checkoutpartner.xyz
 www.chiangmai-goettingen.de
 www.chosunshlpping.com
@@ -3836,6 +3867,7 @@ yjzhengruol.com
 yki3ov-l0h7lv-07ekp4-n4gaqplbe3.s3.us-east-1.amazonaws.com
 yogisandyoginis.com
 yohan.ch
+yourshareofwealth.com
 youthful-keldysh.43-131-39-49.plesk.page
 youweb-banco.bpm-it.top
 youweb.bancobpm-it.com
