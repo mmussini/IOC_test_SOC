@@ -143,6 +143,7 @@ ac-us.cc
 acasiallc.shop
 acc-hot-mail.hm-en.cc
 acc-mn.info
+acc-pro-login.net
 accessor.fud2026.com
 account-extranet-signin.com
 account-live.com-ln.info
@@ -551,6 +552,7 @@ botim-app.pro
 botim.ai-ae.io
 boustrn.su
 bpm-it.top
+bpssrlit.com
 bqj-1-otter-bb9efe.netlify.app
 bqj-4-sorbet-b9e388.netlify.app
 brahimhakimisteamwo98b07.myclickfunnels.com
@@ -849,6 +851,7 @@ cypyxp.hosted.phplist.com
 d-df-dfd-sddgfssdf.ar-me.co
 d.sendibm3.com
 d01273b406.nxcli.io
+d01928983z4.hopp.to
 d3f8x4frhkvck8.cloudfront.net
 d9.datastatistics.nl
 d96ff356-4b58-440d-bc5c-4105f95e37da.ilability.net
@@ -1009,6 +1012,7 @@ dsignpost.com
 dsjkdsfjkdjskdfjirjjree.b-cdn.net
 dslklkdflvksdlmdf.b-cdn.net
 dsm-bg.com
+dspaze.sfo3.cdn.digitaloceanspaces.com
 dssdgsdfsdf.ms-mng.ac
 dub1.servername.online
 duct-master.com
@@ -1248,7 +1252,6 @@ ftp.abcebikes.com
 ftp.co-en.app
 ftp.com-auth.cc
 ftp.com-en.cc
-ftp.corwineagles.com
 ftp.crescentegramas.com.br
 ftp.diesel-turbo.gr
 ftp.duct-master.com
@@ -1555,6 +1558,8 @@ info.user-notification-wix.shop
 infofedex.com
 infor.mation.re
 information-page53663578.com
+infotessara-sanitaria.com
+infovszp-sk.com
 ing-verifica-id89163992-it.us.stackstaging.com
 ingitsedrvizio.justns.ru
 inmbau.com
@@ -2526,6 +2531,7 @@ pagopa-team-account-att-infos122.codeanyapp.com
 pagopa-up-account-mkl233ds539408.codeanyapp.com
 pagopa.justns.ru
 pagopa2026.sviluppo.host
+pagopae.live
 pagopagov.eu
 pagopahome.sviluppo.host
 pagopainfos122.hosted.phplist.com
@@ -3385,6 +3391,7 @@ twitch9929312.com-ln.info
 txm79p-dtz1fd-haml17-sbmgbsvmi3.s3.us-east-1.amazonaws.com
 tyskw-appleid.com-auth.cc
 u106068312.ct.sendgrid.net
+u106347715.ct.eu.sendgrid.net
 u22374103.ct.sendgrid.net
 u29212849.ct.sendgrid.net
 u44395984.ct.eu.sendgrid.net
