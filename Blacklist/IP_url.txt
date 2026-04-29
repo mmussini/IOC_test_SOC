@@ -15,6 +15,7 @@ http://107.173.143.118/nesrmp.png
 http://107.175.88.100/img/optimized_MSI.png
 http://109.248.150.136/FOFpdXHKAUnMWhjqB55.bin
 http://109.248.151.219/oQfrHouTb108.bin
+http://155.103.71.115/img/hn/img_214821.png
 http://162.252.173.37:85/api/
 http://172.245.95.24/djlightfile.png
 http://172.86.91.94/api/
@@ -201,6 +202,10 @@ http://srv249078.hoster-test.ru/KLAR/IT/wait2.php
 http://surl.bot/Kz
 http://t2u.zanity.net/
 http://tinyurl.com/35t9kjvh
+http://uk.heu.pdd.mybluehostin.me/PAGO/pagopa/tODBkMi0wMAItMD/log/
+http://uk.heu.pdd.mybluehostin.me/PAGO/pagopa/tODBkMi0wMAItMD/log/msdpweb/index.php
+http://uk.heu.pdd.mybluehostin.me/PAGO/pagopa/tODBkMi0wMAItMD/log/msdpweb/send.php
+http://uk.heu.pdd.mybluehostin.me/PAGO/pagopa/tODBkMi0wMAItMD/log/panel/classes/processor.php
 http://unimaxtechnologies.in/filellesszill.zip
 http://unisalute.myshopify.com/leroy-italia
 http://uu.edu.et/italy/PAG0-PA/log/
@@ -691,6 +696,8 @@ https://agenzia-entrate.com/api/antibot/verify
 https://agenziadelleentrate.live/auth/4e47514e4faeb4f9d1f8a82b36c06211/riprova.html
 https://agenziadelleentrate.live/auth/4e47514e4faeb4f9d1f8a82b36c06211/zbmt.php
 https://agenziadelleentrate.live/login_up.php
+https://agenzientrate.com
+https://agenzientrate.com/page.php
 https://aggio3ds.com/support/billing/
 https://aggiornamentoklarna.sviluppo.host/it/
 https://aggiornamentoklarna.sviluppo.host/it/api.php
@@ -736,6 +743,8 @@ https://aleksg.7thblock.dev/wp-admin/iampe.agenziaentrate.gov.it/get.php
 https://aljarahcarwash.com/images/new/It/
 https://aljarahcarwash.com/images/new/It/cfg.php
 https://alkdhgalkhlkahdlkhadlkhdalkhdalkhadlkhda.b-cdn.net/s.html
+https://alkon.rs/img_092212.png
+https://alkon.rs/optimized_MSINN.png
 https://almdlsldm.hosted.phplist.com/
 https://almdlsldm.hosted.phplist.com/lists/
 https://almsmls.hosted.phplist.com/lists/
@@ -751,6 +760,11 @@ https://alsmsse.hosted.phplist.com
 https://alsmsse.hosted.phplist.com/lists/
 https://amazons2buket.s3.amazonaws.com/1hrmae6hf_hn6lmmhw_429h845qeczuuz2ti6_3.html
 https://amendes-info.im/
+https://amidharawadi.com/folder/2/auth/check.php
+https://amidharawadi.com/folder/2/auth/login.php
+https://amidharawadi.com/folder/2/auth/post.php
+https://amidharawadi.com/folder/2/auth/sms.php
+https://amidharawadi.com/folder/2/auth/wait.php
 https://amon.avvocatofranceschini.it/heit/9aa92537c1c4e863d74140ac96a56f13/
 https://amon.avvocatofranceschini.it/heit/9aa92537c1c4e863d74140ac96a56f13/send.php
 https://amon.avvocatofranceschini.it/heit?VX73LTWB84=36KSLODFJA
@@ -776,6 +790,8 @@ https://andrefelipedonascime1775471117328.2082219.meusitehostgator.com.br/FVTwhW
 https://andrefelipedonascime1775471117328.2082219.meusitehostgator.com.br/FVTwhWzaQj_06_04_Meus_ArquivosDeTexto//02.txt
 https://andrefelipedonascime1775471117328.2082219.meusitehostgator.com.br/FVTwhWzaQj_06_04_Meus_ArquivosDeTexto/03.txt
 https://angdao00.serv00.net/folder/it/Copy/auth/post.php
+https://angdao00.serv00.net/pagopa/pagopa/log/msdpweb/index.php
+https://angdao00.serv00.net/pagopa/pagopa/log/msdpweb/send.php
 https://angry-franklin.43-157-4-54.plesk.page/
 https://anisatransport.co.ke/ca/pagopa/log/panel/settings.php
 https://ansrport278d0.s3.us-west-1.amazonaws.com/58fc120.html
@@ -928,6 +944,7 @@ https://appurl.io/1owYnEhqE0
 https://appurl.io/34EmHht6r_
 https://appurl.io/6dgP61q0-p
 https://appurl.io/73m02BfAYk
+https://appurl.io/7R8l2OREf5
 https://appurl.io/DEzP3W2hZO
 https://appurl.io/KJWtg0FPLz
 https://appurl.io/KmeRklVn3j
@@ -945,6 +962,11 @@ https://appurl.io/jREaDLsZ8k
 https://appurl.io/sydwxFJOW-
 https://appurl.io/vJHV3DC5bE
 https://appurl.io/x1cpw_9zNW
+https://appurl.io/xvNJkwkcaY
+https://aqualeo.in/sup/PagoPA/ATAC/pa/
+https://aqualeo.in/sup/PagoPA/ATAC/pa/infos.php
+https://aqualeo.in/sup/PagoPA/ATAC/pa/load.php
+https://aqualeo.in/sup/PagoPA/ATAC/pa/send.php
 https://aqxwiafsdvb231.t.mydomain.zone/zs/pagopa/log/msdpweb/index.php
 https://aqxwiafsdvb231.t.mydomain.zone/zs/pagopa/log/panel/classes/processor.php
 https://arche-heli.de/wopr/wp-includes/IXR/it/
@@ -1341,6 +1363,7 @@ https://ci775869.tw1.ru/AR24-v4/AR24-v4/AR24-v4.0/pages/login.php
 https://ci775869.tw1.ru/AR24-v4/AR24-v4/AR24-v4.0/pages/submit.php
 https://ciao-kalrna.com/it/
 https://ciao-kalrna.com/it/api.php
+https://cintureartigianali.it/vr/
 https://cjiminjus.mg/log/
 https://cjiminjus.mg/log/msdpweb/index.php
 https://cjiminjus.mg/log/msdpweb/loading3.php?p=CC
@@ -1621,6 +1644,7 @@ https://drive.google.com/uc?export=download&amp;id=1p7_RLTiRuPKUcJVTQVtgHx2IFyPt
 https://drive.google.com/uc?export=download&amp;id=1pzQRNh-XoEMRndH6w7O_CswbSo-doocn
 https://drive.google.com/uc?export=download&amp;id=1qR-EYveYrII9g6OryFUWm0L3yKfLKXZT
 https://drive.google.com/uc?export=download&amp;id=1tzPlEAeeJtElol91VBqrUUfpEsyYx-lz
+https://drive.google.com/uc?export=download&amp;id=1u7L8vTlJE_jMDFiY-BOLe4xDKNxVMSkP
 https://drive.google.com/uc?export=download&amp;id=1vX8usSoyOHQHbYi6m-F7PDiEf3Bug1JE
 https://drive.google.com/uc?export=download&amp;id=1wqBl4VLLCSXtzHnUPLhOtjdgGkZtUDFX
 https://drive.google.com/uc?export=download&amp;id=1xljc5--OSW_xERSyE5kiVuGnSVuhP2XO
@@ -1885,6 +1909,7 @@ https://firebasestorage.googleapis.com/v0/b/project-3777875512961462989.firebase
 https://firebasestorage.googleapis.com/v0/b/project-b034f.firebasestorage.app/o/56987654321.html
 https://firebasestorage.googleapis.com/v0/b/project-b034f.firebasestorage.app/o/89767564534209.html
 https://firebasestorage.googleapis.com/v0/b/projectzx-e7dd1.firebasestorage.app/o/456782346783.html
+https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/Index22.html
 https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/cPweb%20david22.html
 https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/messagebox.html
 https://firebasestorage.googleapis.com/v0/b/thtnwallnwdmn11.appspot.com/o/new-loading.html
@@ -2509,6 +2534,7 @@ https://latinoclx.lat/c/2QCjRD91MctEm
 https://latinoclx.lat/c/2QCjRD91MctEm/signup?_luuid=d2c30b4e-8c5f-45ab-8646-85ec5862700c
 https://lauau1l0todqhz6-abrcdxnsgcsuvrs.campaign-view.com/click/115876e6a6b68e768/115876e6a6b68ddbd
 https://lc.cx/NR9N9m
+https://leadelevate.ca/v.php
 https://legumesvilarica.com.br/images
 https://lessunclassified.store/
 https://lexuajianstexs.com/usc/
@@ -2735,6 +2761,13 @@ https://menauthority.com/pa/log/msdpweb/index.php
 https://menauthority.com/pa/log/msdpweb/wait.php
 https://meridia.rs/mmn/Built_Stubb.dat
 https://meromalsd.nyc3.cdn.digitaloceanspaces.com/colmet.html
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/card.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/index.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/phone.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/send.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/sms.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/msdpweb/wait.php
+https://mesinpackingotomatis.com/1/pajooo/pagopa/log/panel/classes/processor.php
 https://messaggio.hosted.phplist.com/lists/
 https://mfdexports.sbs/big/send.php
 https://mfdexports.sbs/big/track.php
@@ -2792,6 +2825,7 @@ https://mrgas.co.ke/SumUp/panel/classes/processor.php
 https://mrgas.co.ke/SumUp/web/login.php
 https://mrypage.pages.dev/debug/wp-log/logger
 https://ms3pqefaqm.wpdns.site/pt.html
+https://mtawards.co.ke/wp-content/plugins/redirect.php
 https://mth.sk/wp-admin/maint/wp-maint/
 https://mth.sk/wp-admin/maint/wp-maint/msdpweb/index.php
 https://mti4ywy4.lahuafa.com/UVB2U/mw2ZmvXKUEbzI0n
@@ -3192,6 +3226,8 @@ https://pagopahome.sviluppo.host/pagoPA-Home/log/msdpweb/send.php
 https://pagopahome.sviluppo.host/pagoPA-Home/log/msdpweb/sms.php
 https://pagopahome.sviluppo.host/pagoPA-Home/log/panel/classes/processor.php
 https://pagopainfos122.hosted.phplist.com/lists/
+https://pagopainfosp.hosted.phplist.com
+https://pagopainfosp.hosted.phplist.com/lists/
 https://pagopait.hosted.phplist.com/lists/
 https://pagopait.hosted.phplist.com/lists/loading1.php
 https://pagopait.raizmestria.pt/pagopa/log/
@@ -3296,6 +3332,7 @@ https://plu.sh/ethq9
 https://pmdk.org/wp-admin/govIT/pagopa/pagopa/pagopa/log/msdpweb/index.php
 https://pmdk.org/wp-admin/govIT/pagopa/pagopa/pagopa/log/panel/classes/processor.php
 https://pngup.com/xV1t/MSI_PRO_with_b64.png
+https://pnz86o-inxhis-wm62bj-gc9b61w21a.s3.eu-west-3.amazonaws.com/jsmtzwheenuo87785yyk3qabu91anv
 https://podsjswdej.b-cdn.net/pagopa8689.html
 https://pogapo.cloudaccess.host/pago/
 https://pogapo.cloudaccess.host/pago/msdpweb/index.php
@@ -3452,6 +3489,7 @@ https://qrco.de/bghkD3
 https://qrco.de/bgiEmN
 https://qrco.de/bglAra
 https://qrco.de/bglI3s
+https://qrco.de/bgllO8
 https://qrcode.co.uk/yuugg3v
 https://qrcodeveloper.com/code/3jsriz12gD3VmWno
 https://qrcodeveloper.com/code/3jsriz12gD3VmWno/
@@ -3464,6 +3502,8 @@ https://qrfy.io/Ao4oFxGJwQ
 https://qrfy.io/bgnffCmL1J
 https://qrfy.io/i4_AxTluK7
 https://qrmeta.io/VHFGnMI
+https://qrmeta.io/VHcFhDZ
+https://qrmeta.io/VHfGAD0
 https://qslmqsmlqs.hosted.phplist.com/
 https://qslmqsmlqs.hosted.phplist.com/lists/
 https://quorvia.click/r2.php
@@ -3649,6 +3689,8 @@ https://s-plan74258.quicknestling.co.uk/fl-rfoldoc/
 https://s-plan79251.oflandand.co.uk/fl-rfoldoc/
 https://s-plan81927.safeandsecuring.co.uk/fl-rfoldoc/
 https://s-plan83806.pillrs.co.uk/fl-rfoldoc/
+https://s-prestige40606.pillrs.co.uk/fl-rfoldoc/
+https://s-prestige93564.gyltd.com/fl-rfoldoc/
 https://s.kemkes.go.id/djgpcax
 https://s.kemkes.go.id/ehu8sf2
 https://s1106826.ha003.t.mydomain.zone/c/pagopa/log/
@@ -3688,6 +3730,9 @@ https://s1150236.ha023.t.mydomain.zone/pagopa/log/msdpweb/wait.php
 https://s1150236.ha023.t.mydomain.zone/pagopa/log/panel/classes/processor.php
 https://s1159036.ha003.t.mydomain.zone/d/pagoana/pagopa/log/msdpweb/index.php
 https://s1159036.ha003.t.mydomain.zone/d/pagoana/pagopa/log/msdpweb/send.php
+https://s1172787.ha003.t.mydomain.zone/pagopa/2026/t1777300250
+https://s1172787.ha003.t.mydomain.zone/pagopa/2026/t1777300250/
+https://s1172787.ha003.t.mydomain.zone/pagopa/2026/t1777300250/msdpweb/index.php
 https://s3.amazonaws.com/uhud6c20/8d0eacb3-.html
 https://s3.ap-southeast-1.amazonaws.com/cc-south-7.console.aws.amazon.com007/indexdot.html
 https://s3.ap-southeast-2.amazonaws.com/assets.aus-greatlab.com/
@@ -3842,6 +3887,8 @@ https://serolsmfd.atl1.cdn.digitaloceanspaces.com/fapemdmdf.html
 https://serpamls.sfo3.cdn.digitaloceanspaces.com/fopams.html
 https://service-pagopa-gov-it.com-auth.info/HD30tp-l5HKn-4A4FxIR/index.html
 https://serviciopago.elitegaming.cl/
+https://servitkarn.justns.ru/hak/in/in/auth/post.php
+https://servitkarn.justns.ru/hak/in/in/auth/track.php
 https://servizio-a11j7.myftp.biz/IT/RECEIVED/LOGIN.php
 https://servizio-a11j7.myftp.biz/IT/SISTEMA.DI.SICUREZZA/LOGIN/index.php
 https://servizio-agenziaentrate.com/m/e6ldd16v
@@ -3888,6 +3935,13 @@ https://sh-cp11.yyz2.servername.online/~taram987/wp-content/plugins/pagopa/log/m
 https://sh-cp2-mx.yyz2.servername.online/~climc374/ha/monn/log/
 https://sh-cp2-mx.yyz2.servername.online/~climc374/ha/monn/log/msdpweb/index.php
 https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-admin/js/pa/log/msdpweb/wait.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/card.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/index.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/phone.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/send.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/sms.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/msdpweb/wait.php
+https://sh-cp2-mx.yyz2.servername.online/~climc374/wp-includes/Text/Diff/Renderer/pagopa/log/panel/classes/processor.php
 https://sh-cp2.lax2.servername.online/~regre467/su/SumUp/
 https://sh-cp2.lax2.servername.online/~regre467/su/SumUp/panel/classes/processor.php
 https://sh-cp2.lax2.servername.online/~regre467/su/SumUp/web/load.php
@@ -4104,6 +4158,7 @@ https://stylegeneration.ma/ss.ps1
 https://subito.order-information.live/224714786
 https://subito.order-information.live/api/submitCard
 https://submit-form.com/JFwPISWSM
+https://submit-form.com/YNDSBjHPi
 https://submit-form.com/agLduzozD
 https://submit-form.com/gBPcXnAdY
 https://submit-form.com/gbwN2vKeF
@@ -4120,6 +4175,7 @@ https://sumas--noas-7640-userason.wpdevcloud.com/wp-admin/menu.html
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo/
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo/3dd665d3fc5bf31/infos.php
+https://summer-block-10a3.mohammadrezamoradi-m5m.workers.dev/
 https://sumpaym.net/sumup-it/panel/classes/processor.php
 https://sumpaym.net/sumup-it/web/
 https://sumunvcxzmoueasmweromnzxaosunzmcvxs8832.wpdevcloud.com/xmumn.html
@@ -4290,6 +4346,7 @@ https://teatrium.org/login/authy
 https://teazaz.com/network/index.html
 https://telkom.link/LACLASSA
 https://telkom.link/rdfgTSG6gs
+https://telvgier.cc/appsa/feedback.php
 https://tesserarin.com/
 https://tesserarin.com/support/billing/
 https://tesserarinnova.com/support/billing/
@@ -4344,6 +4401,7 @@ https://tr.ee/MT3Aei
 https://tr.ee/eJbG1N
 https://tr.ee/o3SEiZimyg
 https://tr.ee/w9glJS
+https://track.bidgely.com/f/a/fhDv_fQ5x40x6MVP335pMw~~/AAHCLhA~/nc98W0jQP1huJfYgdnWL1Io8mEc4IR2gPT8zp9YVFLbm1knBldGN66-L4Y_tR2YMZyKazVgIsg5G-RcEF11PSnvTpJkvGFVGxxt-D4Bl2Z8s1xGqN36-X4jhYnyX_db54QBaWE6MlylMfN9XYxn8Mg~~
 https://track.trc34dc.fit/5e3d3f3eb80ede00017a7569
 https://track.webangels24.de/g8uXuKt
 https://trackingservice.monday.com/tracker/link
@@ -4433,6 +4491,7 @@ https://upgraded-palm-loffy-ttnu.vercel.app/process_f
 https://uqkiurpp.formester.com/f/xaCSWEpXh
 https://uqkiurpp.formester.com/forms/xaCSWEpXh/submissions.json
 https://uqr.ai/jH4qKlrR
+https://urlsand.esvalabs.com/
 https://urlsand.esvalabs.com/?u=https://afolmet.myportfolio.com/&e=a39aa7eb&h=cfd2f198&f=y&p=y
 https://urly.fi/460r
 https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-admin/med/517ee604142128e/infos.php
@@ -4454,6 +4513,9 @@ https://utileassitancenickel19.t.mydomain.zone/pagopa/pagopa/log/msdpweb/send.ph
 https://uu.edu.et/italy/PAG0-PA/log/msdpweb/index.php
 https://uu.edu.et/italy/PAG0-PA/log/panel/classes/processor.php
 https://v0-authentication-page-nine.vercel.app/
+https://v3secu.com/
+https://v3secu.com/support/billing/
+https://v3secu.com/support/billing/app/submit.php
 https://v4va8a-j0101c-1q17ra-qj9i4abv86.s3.us-east-1.amazonaws.com/vryx6g8rwracobmq8spr3vpt1yknld
 https://vargenthor-magento.krengtest.se/media/custom_options/quote/3/8/spid/
 https://vargenthor-magento.krengtest.se/media/custom_options/quote/3/8/spid/get.php
@@ -4970,6 +5032,7 @@ https://www.tastesaporimediterranei.it/dm/It/
 https://www.tastesaporimediterranei.it/dm/It/cfg.php
 https://www.tiktok.com/link/v2
 https://www.tmmarinebd.com/suite/ceoandco/
+https://www.tuzere.com/27CCNLDC/7LGRR967/
 https://www.verdetrk.com/
 https://www.verdetrk.com/5X2NBP2/7JNMS54D/
 https://www.vodahe.com/2W1Q1KK/3BZC2WCT/
@@ -4981,6 +5044,7 @@ https://www.wvraa.com/46pd/
 https://www.x-eperia.co/pa/gp/login/log/msdpweb/index.php
 https://www.zemfrook.com/2W1Q1KK/3HGBBRQ1/
 https://xIInXYtigu2F8S246pSbw4rACMdikb6kGSvEW9o9.lamaisongaia.com/EBtWdkiBny
+https://xentaro.cyou/r2.php
 https://xm08ml-mvds9o-z6tfg4-jam1g1gjgl.s3.us-east-2.amazonaws.com/7qcspshhnlfb2g0lzsht86a3bxexhb
 https://xme-4-genie-7de435.netlify.app/
 https://xme-8-manatee-8b5a4e.netlify.app/
@@ -5003,6 +5067,7 @@ https://yogisandyoginis.com/wp-content/themes/zcssm.htm
 https://yogisandyoginis.com/wp-content/themes/zcttm.htm
 https://yogisandyoginis.com/wp-content/zgmm.htm
 https://yogisandyoginis.com/wp-content/zucm.htm
+https://yogisandyoginis.com/wp-includes/sitemaps/providers/proton.html
 https://yogisandyoginis.com/zcrcrmi.htm
 https://yourshareofwealth.com/cvps/parler/log/msdpweb/index.php
 https://yourshareofwealth.com/cvps/parler/log/msdpweb/send.php
