@@ -719,10 +719,12 @@ https://agenziaentrate.grillwestfrentes.com.ar/rimborso/it/vss/intake.php
 https://agenziaentrate.grillwestfrentes.com.ar/rimborso/it/vss/vct.php
 https://agenzientrate.com
 https://agenzientrate.com/page.php
+https://agenzlaentrate.com/
 https://agg-inps.it/I/
 https://aggio3ds.com/support/billing/
 https://aggiornamentoklarna.sviluppo.host/it/
 https://aggiornamentoklarna.sviluppo.host/it/api.php
+https://agntrate.app/
 https://agnztrat.app
 https://agreesta.com/d/PagoPA/ATAC/pa/infos.php
 https://agreesta.com/d/PagoPA/ATAC/panel/classes/processor.php
@@ -814,6 +816,7 @@ https://anabensolutions.com/l/pagoana/pagopa/log
 https://anabensolutions.com/l/pagoana/pagopa/log/
 https://anabensolutions.com/l/pagoana/pagopa/log/msdpweb/index.php
 https://anabensolutions.com/l/pagoana/pagopa/log/msdpweb/send.php
+https://anabensolutions.com/q/pagoana/pagoana/pagopa/log/msdpweb
 https://anabensolutions.com/w/pagoana/pagopa/log
 https://anabensolutions.com/w/pagoana/pagopa/log/msdpweb/index.php
 https://anabensolutions.com/w/pagoana/pagopa/log/panel/classes/processor.php
@@ -894,6 +897,7 @@ https://api.telegram.org/bot8341999291
 https://api.telegram.org/bot8341999291:AAFHbBPDEueC-uAmvn3f1BpomTviH4oy6cI/
 https://api.telegram.org/bot8368409508
 https://api.telegram.org/bot8368409508:AAGdaTmheMYA9ykiriQF--ZzK7i_kwMHPQA/
+https://api.telegram.org/bot8385854609
 https://api.telegram.org/bot8416205489
 https://api.telegram.org/bot8416721520
 https://api.telegram.org/bot8416721520:AAE75WPKx1cYM8f5IPKUebTnFBGKcFDz8lk
@@ -957,6 +961,7 @@ https://app-main-inps.site/
 https://app.furniturecenter.me/
 https://app.trueqrcode.com/9FAZ2MAB
 https://app.trueqrcode.com/qr/4YN4XKWS/
+https://app.trueqrcode.com/qr/6WNBAHKC
 https://app.trueqrcode.com/qr/LLGYUV7D
 https://app.trueqrcode.com/qr/PWXH3VM2/
 https://applemorningkangaroo.s3.eu-north-1.amazonaws.com/freedom
@@ -1094,6 +1099,7 @@ https://auts.autsd.top/it/verify-app.html
 https://autsd.aosit.top/it
 https://autsd.aosit.top/it/home.html
 https://avatar.supearou.in/A8jPAEh!BNWps0Lf/
+https://avisfaxear24.clouddocs.my/index.html
 https://avvioavvio.hosted.phplist.com/
 https://avvioavvio.hosted.phplist.com/lists/
 https://avviso.nataliamenendez.com/pagopa/pagopa/infofattura/msdpweb/card.php
@@ -1192,8 +1198,12 @@ https://bhholdgh.com/aaa/pagoana/pagopa/log/panel/classes/processor.php
 https://billingapi.squarenwtmpyesz6iwl1szvxzbgi.com/d7cf8/2145dc7e6b8cab9d/B9Us/
 https://billingapi.squarenwtmpyesz6iwl1szvxzbgi.com/d7cf8/2145dc7e6b8cab9d/B9Us/captcha.php
 https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/
+https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/app.php
 https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/captcha.php
+https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/mail.php
+https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/otp.php
 https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/pin.php
+https://billings.squarespace.biz.id/cs_live_a1lJndGF3fiD4WRUSmP62e0r7IwbATvNM2m9qZyc7ozjtFtxaRicR9Db0u/pwd.php
 https://bio.site/agevolata
 https://bio.site/beromals
 https://bio.site/pagame
@@ -1378,6 +1388,14 @@ https://chehabci.com/isybank%20italia/easy/step.php
 https://chehabci.com/isybank%20italia/easy/wait.php
 https://chenglongcantho.com/servizi/pa/log/msdpweb/index.php
 https://chenglongcantho.com/servizi/pa/log/panel/classes/processor.php
+https://chipcars.com.ar/emspe/accce/pago/
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/card.php
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/index.php
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/phone.php
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/send.php
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/sms.php
+https://chipcars.com.ar/emspe/accce/pago/msdpweb/wait.php?p=PersonalInfo
+https://chipcars.com.ar/emspe/accce/pago/panel/classes/processor.php
 https://christianedwardwilliams-shop.s28.hostcreators.sk/klr/pages/cc.php
 https://christianedwardwilliams-shop.s28.hostcreators.sk/klr/pages/hub/b.php
 https://christianedwardwilliams-shop.s28.hostcreators.sk/klr/pages/hub/l.php
@@ -1772,6 +1790,7 @@ https://erw.bsttotrk.com/2GXK7W/7K7ZX4J/
 https://esaas-user-files.eventxcdn.com/orgs/ae5472a9-d5ff-462a-8bb0-89cf8f8ec0d5/medias/70fa4a36-c58e-4776-b4b3-837739f7dbc0.svg
 https://etecindia.in/it/fatture/
 https://etecindia.in/it/fatture/loading.php
+https://etesuor.com/reriom/docesg.php
 https://europeanwebservicesonline.services/pago/pagopa/log/msdpweb/card.php
 https://europeanwebservicesonline.services/pago/pagopa/log/msdpweb/index.php
 https://europeanwebservicesonline.services/pago/pagopa/log/msdpweb/loading3.php
@@ -1882,6 +1901,7 @@ https://firebasestorage.googleapis.com/v0/b/project-3777875512961462989.firebase
 https://firebasestorage.googleapis.com/v0/b/project-b034f.firebasestorage.app/o/56987654321.html
 https://firebasestorage.googleapis.com/v0/b/project-b034f.firebasestorage.app/o/89767564534209.html
 https://firebasestorage.googleapis.com/v0/b/projectzx-e7dd1.firebasestorage.app/o/456782346783.html
+https://firebasestorage.googleapis.com/v0/b/sfq7-89dc2-gy7ro/o/ryMbV0Tj7C4.html
 https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/Index22.html
 https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/cPweb%20david22.html
 https://firebasestorage.googleapis.com/v0/b/sugar-afabf.firebasestorage.app/o/cPweb20.html
@@ -2927,6 +2947,7 @@ https://nexi34gz4g.myvnc.com/IT/RECEIVED/LOGIN.php
 https://nexi34gz4g.myvnc.com/IT/SISTEMA.DI.SICUREZZA/LOGIN.TITOLARI/index.php
 https://ngy2yjq0otlj.ahroar.com/17pIWJfr9DBiXYrSb
 https://ngy2yjq0otlj.ahroar.com/EpCXMKDMx1roYGJ
+https://nhh5p0c8vs.wpdns.site/esoe.html
 https://nieamkwo.blogspot.com/
 https://nihealthcoach.top/share/x/8614/cloud.php
 https://nihealthcoach.top/share/x/e1TCw3ioUUdLlrTupEFPFA8PQqNbUrLXmM28B8DmOLrF6uQGlUnRjBiL8wNU3bo6mZXdiSeUKoS65hwOrmFcnkTuLY05v21TskISKiggexcc22HqiHSqZHVZ/
@@ -2944,6 +2965,30 @@ https://notifiche-stradali.life/it
 https://notifiche-stradali.one/it
 https://notifiche-stradali.online/it
 https://notifiche-stradali.site/it
+https://notifichedigitali.bond/eTVBaGOlZa/api/input
+https://notifichedigitali.bond/it
+https://notifichedigitali.bond/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.bond/we004_it_etc_notifichedigitali/header.html
+https://notifichedigitali.cfd/eTVBaGOlZa/api/input
+https://notifichedigitali.cfd/it
+https://notifichedigitali.cfd/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.cfd/we004_it_etc_notifichedigitali/header.html
+https://notifichedigitali.icu/eTVBaGOlZa/api/input?token=2b99e186-06b8-49cb-95bb-ff622628f442
+https://notifichedigitali.icu/it
+https://notifichedigitali.icu/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.icu/we004_it_etc_notifichedigitali/header.html
+https://notifichedigitali.lat/eTVBaGOlZa/api/input?token=cf271760-17bd-4381-b32e-c44e3ca264ab
+https://notifichedigitali.lat/it
+https://notifichedigitali.lat/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.lat/we004_it_etc_notifichedigitali/header.html
+https://notifichedigitali.sbs/eTVBaGOlZa/api/input?token=412d912d-83dc-496f-bd9b-6c0022c6e31c
+https://notifichedigitali.sbs/it
+https://notifichedigitali.sbs/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.sbs/we004_it_etc_notifichedigitali/header.html
+https://notifichedigitali.shop/eTVBaGOlZa/api/input
+https://notifichedigitali.shop/it
+https://notifichedigitali.shop/we004_it_etc_notifichedigitali/footer.html
+https://notifichedigitali.shop/we004_it_etc_notifichedigitali/header.html
 https://notifichestrada.ink/it
 https://notifichestrada.ink/kKUlkkslys/api/
 https://notifichestrada.ink/kKUlkkslys/api/input
@@ -3382,6 +3427,7 @@ https://radio.brightstarstudios.ca/it/pagopa/log/msdpweb/wait.php?p=PersonalInfo
 https://radio.brightstarstudios.ca/it/pagopa/log/panel/classes/processor.php
 https://ragngjbahmkn-presley.systeme.io/proxy/request/5507642c3991becb9bdcd6ed4e33adcf36383
 https://raifdevelopments.com/plz.js
+https://raisinggenpure.com/
 https://rangetelecom.com/wordpress/mail.zimbra.com/index.html
 https://raptore.yzz.me/MSI_182414.png
 https://raw.githubusercontent.com/antoniocastaldo1998/app-scuola/blob/main/nk/Intesa%20Carte.apk
@@ -3582,6 +3628,7 @@ https://sad360htd.com/c.html
 https://sadolmsldfer.atl1.cdn.digitaloceanspaces.com/bsalsmd.html
 https://sadroplamsdm.sfo2.cdn.digitaloceanspaces.com/besaolss.html
 https://salinometercincture.motorcycles/
+https://samtecit.co.uk/wp-admin/it/pagopa/pagopa/govapp/msdpweb/index.php
 https://sanghvitransline.com/it/scaduto/
 https://sanisupp-it.com/
 https://sanisupp-it.com/support/billing/
@@ -3653,6 +3700,7 @@ https://scanned.page/8TQMKt
 https://scanned.page/9UJUxw
 https://scanned.page/9goGgp
 https://scanned.page/F6i98u
+https://scanned.page/IYZ54t
 https://scanned.page/M1Lvkw
 https://scanned.page/O1CaOK/
 https://scanned.page/Q4kYns
@@ -3902,6 +3950,7 @@ https://smileybins.co.ke/pa/log/panel/classes/processor.php
 https://smileybins.co.ke/pagopa/log/
 https://smileybins.co.ke/pagopa/log/msdpweb/index.php
 https://smileybins.co.ke/pagopa/log/panel/classes/processor.php
+https://soaringcaribbeanintl.org/wp-includes/pomo/faillo.html
 https://soccer966.s3.ap-south-1.amazonaws.com/859eeec2.html
 https://solar-sanat.net/files/veep.txt
 https://soltraenerji.com.tr/tax/
@@ -4279,6 +4328,7 @@ https://utileassitancenickel19.t.mydomain.zone/pagopa/pagopa/log/msdpweb/index.p
 https://utileassitancenickel19.t.mydomain.zone/pagopa/pagopa/log/msdpweb/send.php
 https://uu.edu.et/italy/PAG0-PA/log/msdpweb/index.php
 https://uu.edu.et/italy/PAG0-PA/log/panel/classes/processor.php
+https://uu.edu.et/italy/PAG0/log
 https://uudmj6.milazzoservizi.eu/ed2/
 https://uudmj6.milazzoservizi.eu/ed2/3nz0/index.php
 https://v0-authentication-page-nine.vercel.app/
@@ -4545,6 +4595,9 @@ https://www.cleanpopularfast.autos/1jm33gr70/l
 https://www.cleanpopularfast.autos/1jm8nanmh/l
 https://www.cleanpopularfast.autos/c
 https://www.cleanyourdebt.com/
+https://www.clouddocs.my/1FvJm3s-gqpuHbom-gux8muds-afrRuZB/index.html
+https://www.clouddocs.my/index.html
+https://www.clouddocs.my/misc/index.php
 https://www.counterservhost.com/4DR6XHR/27GKGFKG/
 https://www.counterservhost.com/4DR6XHR/X1L9F4J/
 https://www.dailytrendsonlinne.com/6RNXHT/2HSS8TK/
