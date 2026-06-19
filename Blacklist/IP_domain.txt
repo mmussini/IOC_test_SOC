@@ -11,13 +11,13 @@
 206zulu.org
 22183481fb.nxcli.io
 2453255674577778424654l0l.blogspot.com
-2461826.meusitehostgator.com.br
 2482640057.nxcli.io
 285c2f4016.nxcli.io
 2d4e7456417431494f6a5671546942534d613475.gtly.io
 2gidjb4f0m5kqp76.sicurezzaposta.app
 35hhw24ym5.k-sinergyscaff.com
 383dc066a7.nxcli.io
+3dsecure.s-id-check-sparkassen.de
 3dsecurio.com
 3dsecurio.s3-website.us-east-2.amazonaws.com
 3dssalute.com
@@ -111,6 +111,7 @@ agfscudo.com
 agg-inps.it
 aggio3ds.com
 aggiorna-datinps.it
+aggiorna-questionario.com
 agntrate.app
 agnztrat.app
 agreesta.com
@@ -130,7 +131,6 @@ aliengp.cyou
 alisilkcenter.com
 aliveto.cyou
 allthatwasblessed.mom
-allyouneedis0065.online
 almdlsldm.hosted.phplist.com
 almsmls.hosted.phplist.com
 almuraby.com
@@ -155,11 +155,9 @@ anisatransport.co.ke
 anotherarmy.dns.army
 anpasas.it
 ansrport278d0.s3.us-west-1.amazonaws.com
-answercurrentleather.world
 anuttara.in
 anycont.com
 anyioba.lovestoblog.com
-aoudefn.resecio.de
 apartsrvit.jdevcloud.com
 api.gelukkigewinnaars.nl
 api.ra-backup.com
@@ -174,6 +172,8 @@ app.burstminutemoney.pics
 app.butterslipmilitary.rest
 app.furniturecenter.me
 app.klarn.one
+app.languagemistsmooth.work
+appinps.com
 applebox.camdvr.org
 applemorningkangaroo.s3.eu-north-1.amazonaws.com
 appler.kozow.com
@@ -241,7 +241,7 @@ auth.sviluppo.host
 authkwd.xx.kg
 authvesrng.im
 autismdefined.net
-auto-verifica-account-pagina-clientes.pasini.eu
+auto-verfication.hb-commerce.com
 automaf.top
 autos.dorzen.top
 autos.frode.top
@@ -293,7 +293,6 @@ basilicros.su
 bbvitaly.resecio.de
 bc74e9911db7930623efa7564d903dd8.m.pipedream.net
 bd3vwp5.fikfikredirect.xyz
-be-a-wynner.com
 be85053532.nxcli.io
 bearboll.fun
 beba.hr
@@ -349,7 +348,6 @@ bookns-extanet.com
 booknyw.com
 bootstrap-f5c7.restdb.io
 botanyh.cyou
-bothu.vu
 bounceme.net
 boustrn.su
 bouwbedrijftdekker.superblastss.com
@@ -370,8 +368,6 @@ brt.vieemz.buzz
 bsttotrk.com
 bt-mob.net
 btbtutil.theworkpc.com
-btcaimining.xyz
-btcpoolok.cloud
 btltan.ooguy.com
 btmob.xyz
 bucket-aj7tycf16ixq.s3.amazonaws.com
@@ -389,7 +385,6 @@ bylandia-park.cz
 c-firebase-google.co
 c3.my-control-panel.com
 c702c75afa.nxcli.io
-ca198249.tw1.ru
 camcampkes.ddnsfree.com
 cameron-n.systeme.io
 camsqewivo.kozow.com
@@ -399,7 +394,6 @@ capitaf.cyou
 capitalestates.es
 capitamx.cyou
 carbonara-day.com
-cariitas.it
 carlyleleeacademy.org
 carpoba.cyou
 casaderepousovivavida.com.br
@@ -418,7 +412,6 @@ cdnvmtools.theworkpc.com
 cee-tyla-006-bkk.ydns.eu
 cee-tyla-06.ydns.eu
 center.wfl520.com
-cert12-man.vitalite-beaute-feminite.com
 cespsy.com
 cfolks.pl
 cfysfsnt4p4nzbi-7650.twil.io
@@ -429,7 +422,6 @@ chantankanhna.clickfunnels.com
 chassealarc.com
 cheapbeachchair.store
 cheapshopp.lat
-check-areaclienti-rinnovi.dorotheejabiol.com
 check.payable-invoice.com
 checkout.guardianbreak.com
 checkoutpartner.xyz
@@ -443,12 +435,10 @@ chuckyr.cyou
 chx73-info.com
 ci775869.tw1.ru
 ciilegrrianjvcq.top
-cineotv.one
 circumcisionclinic.net
 civiliq.cyou
 claim-refund-agenziaentrate-it.comoeusou.com
 claimpoint.icu
-clammilyhamlet.boats
 classicinnovations.co.ls
 claude-code.work
 claudiadassasteamwofa6a5.myclickfunnels.com
@@ -469,6 +459,7 @@ cloacpae.ddnsfree.com
 cloud-renewal.com
 clouddocs.my
 cloudflare-workers-autoconfig-it-056.diethelm-wilke.workers.dev
+cloudglobalentertainmentgesystems.consultingpvtlgkctd.vu
 clssvip.jdevcloud.com
 clvckvkdflkvldclfs4.b-cdn.net
 cmile.org
@@ -482,6 +473,7 @@ commisariatodips.help
 commissps.help
 communi.cyou
 compimento.ba
+comunebologna.info
 comunebologna.online
 comunedigital.info
 comunicacionesinersas.com
@@ -490,6 +482,7 @@ condelx.cyou
 confirmation-id972.com
 congenial-memory.appwrite.network
 connessione-sicura-in-linea.com
+consultingpvtlgkctd.vu
 consultoriasysolucionesfinancieras.com
 contaboserver.net
 contact.introductions.vu
@@ -520,6 +513,7 @@ crossat.cyou
 cryaesa.cyou
 cryglasssociety.college
 csaerst853-ygfaev434.tecchein.cam
+cubodesign-it.com
 cupbones.vip
 cupomgratisfood.shop
 curishomehealthcare.com
@@ -529,6 +523,7 @@ cvnoc01da1cjmnftsd.accesscam.org
 cvpc01aenusocirem.accesscam.org
 cvpc01cgsdfn53hgd.giize.com
 cx8vmdjAiQH3gtKOSp1S7i4WD7m87VIhKxx6Opn7a.kicards.com
+cxia.it
 cyberplg.cyou
 cypyxp.hosted.phplist.com
 d1.chassealarc.com
@@ -581,7 +576,6 @@ dhv1r0-nb5kst-qliznf-skrvv6t1tt.s3.us-east-1.amazonaws.com
 dibhgajnecmimdl.top
 did.li
 diffusn.cyou
-digitalvisionglobal.com
 diligentnorthvale.com
 dimawidad5.blogspot.com
 din.prr.mybluehost.me
@@ -591,7 +585,6 @@ directi.cyou
 directionmachineporternut.icu
 discret.cyou
 disnmediase-44015-121754141801-us-east-1-an.s3.us-east-1.amazonaws.com
-dl-caritas.online
 dlklkdflkiofkezlpleflzkfe.b-cdn.net
 dllpgd.click
 dlpossie.ddnsfree.com
@@ -600,6 +593,7 @@ doboudix1024.mywire.org
 docspo.ru
 document4.hexora.it.com
 documentcopy4.enhanceusersatisfaction.de
+documentfastshare.com
 doh-1-jelly-8b3b90.netlify.app
 doh-1-manatee-42820e.netlify.app
 doh-8-parfait-6d4488.netlify.app
@@ -628,6 +622,7 @@ ebele.appwrite.network
 ebf.bowlingresults.info
 ebonizz.cyou
 eburd.sfo3.cdn.digitaloceanspaces.com
+ecdp.ronaldegesa.com
 ecommercead.com
 economical-oyster-a7e177.instawp.xyz
 ecupadel.com
@@ -658,6 +653,7 @@ enjoyag.cyou
 enzimetech.com
 epic-beaver.43-131-35-35.plesk.page
 epicenf.cyou
+epifaniastudio.com.br
 erddds.b-cdn.net
 eruk4.dmdcondizionamento.it
 erw.bsttotrk.com
@@ -681,6 +677,7 @@ expertensa.com.mx
 expertenzirkel.info
 exposqw.su
 extrasecu.hosted.phplist.com
+f1yxu6wpwc.wpdns.site
 fadehairucw.store
 faeelt.giize.com
 fakjcsaeyhs.ddnsfree.com
@@ -737,7 +734,6 @@ fqyias-dpa23i-e44o3p-e5gp1t8v5p.s3.eu-west-1.amazonaws.com
 framecloudservice.store
 france-n26.app
 freeios.theworkpc.com
-freesafepremiumprogram.autos
 friendly-chebyshev.43-131-39-49.plesk.page
 frode.top
 fruit.vicre.biz.id
@@ -834,6 +830,7 @@ gotchacoverd.com
 gouv-fr-er-antai-bnc-princi.up.railway.app
 gouvtess.com
 gov-ref-it-2024-34749.justns.ru
+gov.pagopaltalia.cxia.it
 govpagopaitalia.anpasas.it
 govvpagopasones.com
 gowebnow.in
@@ -855,6 +852,7 @@ gty.beznervov.com
 guardianbreak.com
 gubbisx.cyou
 guidesleepteaching.monster
+guilherme-telecomunicacoes2024.workers.dev
 guisamor.mx
 gunsaldi.com
 gvvt1.com
@@ -862,7 +860,6 @@ h0i3stfxr2.dynv6.net
 hacvietsherwin.com
 haeccee.cyou
 haigetal.org
-hamidzaz1776960181455.2461826.meusitehostgator.com.br
 hamkorg.kozow.com
 hammernew.su
 hamrodolakha.com
@@ -874,6 +871,7 @@ harmonie.sk
 hatemotherearly.monster
 hatzig.de
 hazametaltech.com
+hb-commerce.com
 hctjrd2r0vhuauvwxorksghfozetd3du1omiou.latoou.com
 heas5u-faowno-1o47ju-gym82t3g2f.s3.us-east-1.amazonaws.com
 heavylussy.su
@@ -914,6 +912,7 @@ icg-1-capybara-b20f8e.netlify.app
 icg-1-dieffenbachia-371300.netlify.app
 iclix.tkburgers.com
 icwh2q9w.com
+icy-lab-0431.guilherme-telecomunicacoes2024.workers.dev
 id-all-inkl.org
 idstandsuui.kozow.com
 iduser9298831-certifate-application.lartegioielli.it
@@ -928,8 +927,8 @@ immolacote.com
 imperialguard.icu
 imperiumgym.sk
 improve-ur-finance.com
-in-nexi.live
 inautom.pw
+inbakn.resecio.es
 incandescent.hamrodolakha.com
 inconsk.cyou
 indandhraagro.com
@@ -939,7 +938,6 @@ indexuubbcgrbjjgh.appwrite.network
 indoodchat.theworkpc.com
 infofedex.com
 information-page53663578.com
-infosanitariatessera.com
 infospagoservium.com
 ing-verifica-id89163992-it.us.stackstaging.com
 ingitsedrvizio.justns.ru
@@ -988,13 +986,13 @@ iouehjksdkcoiysduihkjvkudkuysliw.blogspot.com
 ip81nd-buvsb1-1impld-2ory9nbt9w.s3.us-west-2.amazonaws.com
 ipify.dtdns.org
 ipko.shop
+ipografi.hosted.phplist.com
 ironpalisade59.blob.core.windows.net
 irudfgjhdbrjeygdsguysdhjskhjzghd.blogspot.com
 isoprendocs.contentgear.store
 ist-nazionale-lnps.it
 ist-nazionale-utente.it
 ist-nazionale-utenti2026.it
-it-inbank.live
 it-inpsmy.com
 it-intesosarnpaolo-it.myshopify.com
 it-notifichedigitali.biz.id
@@ -1006,6 +1004,7 @@ it-notifichedigitali.my.id
 it-notifichedigitali.sbs
 it-notifichedigitali.shop
 it-notifichedigitali.xyz
+it-notifichedigitalis.my.id
 it.harmonie.sk
 italia.designrigoroso.com
 italia.stfboilers.it
@@ -1030,7 +1029,6 @@ jfsdahjdsfyudyfufghs.b-cdn.net
 jgkdjfidjirgoekzrogjfger.b-cdn.net
 jgp-1-scone-9501bc.netlify.app
 jgp-6-kitsune-2e4478.netlify.app
-jorgesgadgets.store
 jsonserv.live
 judicis.cyou
 judyw1.serv00.net
@@ -1041,11 +1039,8 @@ k-sinergyscaff.com
 kaheisuhabsteamwork948ee.myclickfunnels.com
 kaidaisoo.contractors
 kakapupuneww.com
-kalrna-ciao.site
 kandagar.com
 karadmosseriezentirumm-roedelheimm.com
-karslioglu-tr.com
-kasperyedikfih.com
 kbytecomputacion.com.ar
 kdshdshadgsjhkhsdjsjks.b-cdn.net
 kenaifj.live
@@ -1099,6 +1094,7 @@ laintessasanpoloit-9002.twil.io
 lamiaapppagoverif.crabdance.com
 lamsdlmepr.tor1.cdn.digitaloceanspaces.com
 landing.redirct.ru
+languagemistsmooth.work
 latinocampaigns.world
 lauau1l0todqhz6-abrcdxnsgcsuvrs.campaign-view.com
 laundrysyndicserai.com
@@ -1143,7 +1139,6 @@ login.qamom.com
 loginauthyofficeauthotize.retained.com.de
 logln.hyswcy.com
 lolofik.blogspot.com
-long-sun-93fd.neyvicbaffmousytj.workers.dev
 looppli.cyou
 losiesca.ddnsgeek.com
 lovestoblog.com
@@ -1186,7 +1181,6 @@ mail.shaktiinstrumentations.in
 mail.spskgruca.pl
 mail.taikei-rmc-co.biz
 mail.telesantos.pt
-mail.thekampungubudvilla.com
 mail.thesignscentre.com
 mail.transportesfernandez.net
 mail.trimnt.com
@@ -1252,7 +1246,6 @@ merakilogistics.kz
 meromalsd.nyc3.cdn.digitaloceanspaces.com
 meshaxis.cloud
 messaggio.hosted.phplist.com
-meusitehostgator.com.br
 mgardownload.com
 mhhliving.com.au
 miacyvx5ohzpf1ycrbr3hgtnzn5og5h4.sfo3.digitaloceanspaces.com
@@ -1299,7 +1292,6 @@ multiapp.at
 mummifjn.cyou
 murwn-mvcwoun-iomo943.wpdevcloud.com
 mushy.motokultivator.net
-mustaffconsulting.de
 mutvo.com
 mvc.bms.mybluehost.me
 mwebnotiziepagopa.live
@@ -1375,6 +1367,7 @@ nlsnf1trk.com
 nmszablogs.ddnsfree.com
 nodekeny11.freeddns.org
 nodjs2o25nodjs.giize.com
+noip.epifaniastudio.com.br
 noncumulative846.novabytelabs.sa.com
 noplfers.sfo3.cdn.digitaloceanspaces.com
 notificationpayment.click
@@ -1389,8 +1382,22 @@ notifiche-stradali.site
 notificheadigitali.com
 notificheadigitali.org
 notifichecdigitali.com
+notifichedigitai.bond
+notifichedigitai.cyou
+notifichedigitai.icu
+notifichedigitai.lat
+notifichedigitai.my
+notifichedigitai.qpon
+notifichedigitai.shop
+notifichedigitai.xyz
 notifichedigitaili.com
 notifichedigitaili.online
+notifichedigital.cfd
+notifichedigital.cyou
+notifichedigital.icu
+notifichedigital.sbs
+notifichedigital.shop
+notifichedigital.xyz
 notifichedigitali-it.art
 notifichedigitali-it.asia
 notifichedigitali-it.autos
@@ -1482,6 +1489,7 @@ notifichedigitali.rest
 notifichedigitali.sbs
 notifichedigitali.shop
 notifichedigitali.skin
+notifichedigitali.top
 notifichedigitali.web.id
 notifichedigitali.wiki
 notifichedigitali.work
@@ -1517,8 +1525,14 @@ notifichedigltali.web.id
 notifichedigltali.xyz
 notifichedigtali.biz.id
 notifichedigtali.cfd
+notifichedigtali.cyou
+notifichedigtali.eu.cc
+notifichedigtali.icu
 notifichedigtali.my.id
+notifichedigtali.sbs
 notifichedigtali.shop
+notifichedigtali.web.id
+notifichedigtali.xyz
 notifichedlgitali.autos
 notifichedlgitali.biz.id
 notifichedlgitali.boats
@@ -1539,6 +1553,8 @@ notifichedlgitali.web.id
 notifichedlgitali.xyz
 notificheidigitali.com
 notificheidigitavli.com
+notifichendigitali.com
+notifichendigitali.online
 notifichesdigitali.com
 notifichestrada.ink
 notifichestradali.life
@@ -1634,6 +1650,7 @@ onlinelnps.eu.cc
 onlyosun.ooguy.com
 onstudies.co.ke
 onthewifi.com
+onyx-ae.cc
 open4mind.cloud
 opensetcreditagroptioni710228cn7avsl-creditagric0le.wfl520.com
 opinionforgex.com
@@ -1660,8 +1677,8 @@ pago-pa.artipel.pt
 pago.amovaceuillesuive.com
 pago.pa.it.harmonie.sk
 pagomenteservicio.t.mydomain.zone
+pagooopaitalia.carbonara-day.com
 pagopa-account-account-42343pagopa983pagopa-mkl233ds539408.codeanyapp.com
-pagopa-gov-it-it-pubbliche-amministrazioni-infos122.codeanyapp.com
 pagopa-gov-it.klantenservice-pg-ag.im
 pagopa-gov.com
 pagopa-gov.site
@@ -1674,7 +1691,6 @@ pagopa.italia.designrigoroso.com
 pagopa.italia.stfboilers.it
 pagopa.justns.ru
 pagopa.kuwait-postdelivery.org.uk
-pagopa.supportsend.online
 pagopa06may2026.blob.core.windows.net
 pagopa2026.sviluppo.host
 pagopainfos122.hosted.phplist.com
@@ -1682,6 +1698,7 @@ pagopainfosmail.com
 pagopait.hosted.phplist.com
 pagopaitpayement.t.mydomain.zone
 pagopaits.net
+pagopaltalia.cxia.it
 pagopamain.merseine.com
 pagopaspa.sviluppo.host
 pagopayment.onl
@@ -1694,15 +1711,11 @@ paragon.online
 parkbylandia.cz
 particulier-agences.com
 particulier-fr.com
-pasini.eu
-pass-caritas.online
 patch-js.com
 patchjs.com
 pavitr.in
 pawanp.kozow.com
 payment.valid2fa.com
-paypal.italy-helo
-paypal.italy-help
 paypal.portal-login-id7854200.com
 payprotectweb.com
 pburl.link
@@ -1764,6 +1777,7 @@ ppsaBedon.gleeze.com
 pqt-4-nougat-31dc5a.netlify.app
 pqt-7-lebkuchen-66c056.netlify.app
 pragatisaharsa.com
+pratica-sicurezza.com
 praticalnps.eu.cc
 prdanjana01.ddnsfree.com
 prepaid127.freeddns.org
@@ -1796,7 +1810,6 @@ q2psuv-u0ien6-ljor43-q6f9mkdizm.s3.us-east-1.amazonaws.com
 qamom.com
 qinerdime.servehalflife.com
 qinerdime.ydns.eu
-qrabahobi2.blogspot.com
 qslmqsmlqs.hosted.phplist.com
 quitgod2023luck.giize.com
 r.fammies.com
@@ -1840,7 +1853,7 @@ renouv-nouveau-compte.info
 renw3ds.com
 renw3ds.com.s3-website.us-east-2.amazonaws.com
 requieiy.cyou
-resecio.de
+resecio.es
 reserita.findarkom.es
 resico.bluue.im
 retrodayaengineering.icu
@@ -1872,6 +1885,7 @@ romatac.site
 romatac.vip
 romeatac.lat
 romeatac.my
+ronaldegesa.com
 ronininvestors.com
 roomsinfo-stays731.com
 rordeigs.hosted.phplist.com
@@ -1885,8 +1899,8 @@ rvltncsn100.com
 s-dfango-27kgf.bacherprofess.co.uk
 s-dfango-7akpd.significants.co.uk
 s-dfango-fjind.newfastlines.com
+s-id-check-sparkassen.de
 s-medicus.si
-s-nobility26417.birkolios.com
 s1106826.ha003.t.mydomain.zone
 s1119338.ha007.t.mydomain.zone
 s1119659.ha007.t.mydomain.zone
@@ -1910,7 +1924,6 @@ sanisupport-info.com
 sanita-info.com
 sanitatesserait.com
 sanitessera-info.com
-sanitesserarinova.com
 sannafedaefsti.en.gp
 sannita-it.com
 sardweb.org
@@ -1930,6 +1943,7 @@ sdhite43.ddnsfree.com
 sdlxmetal.com
 sdsuytoins63.kozow.com
 securedcheck.es
+securedocumentss.retool.com
 securesafezone.com
 selfad.gleeze.com
 semprebon.org
@@ -1945,7 +1959,6 @@ server100.orangehost.com
 serversecuredchain.com
 service000023233servernotificatiions9990009.s3-eu-south-2.ionoscloud.com
 serviciopago.elitegaming.cl
-servizi-lnps.eu.cc
 servizilopaseo.sfo3.cdn.digitaloceanspaces.com
 servizio-a11j7.myftp.biz
 servizio-agenziaentrate.com
@@ -1957,7 +1970,6 @@ servizioingit.justns.ru
 servmever-pane.franny24.com
 setupcodpr2.freeddns.org
 sfaj.enhanceusersatisfaction.de
-sfe-2026.com
 sfe-info.com
 sgasuaiyusyhhjs.b-cdn.net
 sgintese.osc-fr1.scalingo.io
@@ -1974,7 +1986,6 @@ shieshan.ydns.eu
 shinobidatacore.com
 shorted.cyou
 shoutout.wix.com
-shrill-cherry-5f35.kestlansula1976.workers.dev
 sicurezza-dcz.onthewifi.com
 sicurezza-del-cliente.net
 sicurezza-intesasanpaolo.uhoiazdijopk.com
@@ -2006,7 +2017,6 @@ sourcefuel.co.zw
 sowemoveahead.top
 space-teampro.com
 spicynagets.shop
-spiderpool.app
 spiltovercup.ink
 split.ekin-pro.moscow
 sponges.cyou
@@ -2046,7 +2056,6 @@ stradaita.cc
 stradaita.digital
 streamecho.net
 streamshift.net
-streekprodukten.shop
 stretchtroublesmooth.pics
 stripcil.cyou
 strobudfond.ru
@@ -2057,7 +2066,6 @@ studiogioeli.it
 stvincentdepaulcharityprogrammalindi.org
 styuij.mywire.org
 subdomain.vdtronwebrriel.sbs
-subito.controllo-837361.sbs
 submit-form.com
 sumas--noas-7640-userason.wpdevcloud.com
 sumpaym.net
@@ -2187,7 +2195,6 @@ uhub7bb3.s3.amazonaws.com
 uhue676e.s3.amazonaws.com
 ujanaafrika.co.ke
 uk.edropia.com
-ukscu.co.uk
 ulitd.digital
 ulmacea.cyou
 ultd.digital
@@ -2197,6 +2204,7 @@ underpt.cyou
 uniiwork.online
 unimaxtechnologies.in
 unisalute.myshopify.com
+united.mpconsulting.eu
 universalexport.online
 unmindv.cyou
 unnjunnani.ddnsfree.com
@@ -2248,7 +2256,6 @@ vim8kla.info
 vinilenrollobolivia.tech
 vinolnetbjhicejuhnuun848nd.appwrite.network
 vintecch.com
-vitalite-beaute-feminite.com
 vivacious-media.co.za
 viveturetiro.mx
 viviinformato.it
@@ -2271,7 +2278,6 @@ vurigdooptakemetodown.info
 vvncia.com
 vvvvvvvv09kntaxgjuyghbxqyjgcvcxsdfghjrtesdfxcvsgnvcg877654t.wpdevcloud.com
 w9x3rxevw.forim.it
-waarschijnlijkheid-32c4.s3.eu-central-1.amazonaws.com
 wagoto.info
 walekaforeyiy.myclickfunnels.com
 wdlcamaakc.ooguy.com
@@ -2291,7 +2297,6 @@ wepro.ch
 wer-nu.vercel.app
 weronya.com
 westerrd.cyou
-westy.karslioglu-tr.com
 wetransfer-com-downloads-6obinnf8e2-omega.vercel.app
 wfl520.com
 whitepepper.su
@@ -2345,7 +2350,6 @@ www.24418.lgbt
 www.28159robinave.com
 www.321833.com
 www.3701157.xyz
-www.37betnc.com
 www.3n1royaloak.com
 www.41ac2.makeup
 www.45si.com
@@ -2473,7 +2477,6 @@ www.ecommercead.com
 www.edokelgroup.com.ng
 www.effort-inc.net
 www.efplusarchitekci.com
-www.eis3g7.asia
 www.elunakids.xyz
 www.emberdock.site
 www.emoci.net
@@ -2496,7 +2499,6 @@ www.flipmoneyapp.com
 www.forwardservertech.com
 www.fountaincreekhoney.com
 www.freeebookscorner.com
-www.freesafepremiumprogram.autos
 www.fucfbbd.blogspot.li
 www.fulride.info
 www.gamemodx.ru
@@ -2542,7 +2544,6 @@ www.ist-nazionale-utente.it
 www.itniche-website.cloud
 www.ivrireadingcode.co.il
 www.j-runease.com
-www.jamiethewebguy.com
 www.jannahpanjabi.com
 www.jaswantpuracollege.com
 www.jeanlo.space
@@ -2585,7 +2586,6 @@ www.mailsetup.app
 www.maltelindellgolf.se
 www.manukalena.com
 www.manzoormeyakhilgmail.com
-www.mapvia.com.br
 www.masterscoatsolutions.com
 www.mbngotpy.shop
 www.mechanicsmafia.xyz
@@ -2624,6 +2624,7 @@ www.p0qqce.cn
 www.p207.cc
 www.p3x63q.garden
 www.p43dt.top
+www.padelafabrics.co
 www.pafimedangderas.org
 www.pandoraitsolutions.com
 www.partymm.com
@@ -2646,9 +2647,7 @@ www.previdenza-ist-nazionale.it
 www.princekatura.online
 www.priorstudio.co.za
 www.privena.live
-www.productgrowthflow.pro
 www.puntoparking.net
-www.puppetcareworld.com
 www.pure-t.ru
 www.q78x.sbs
 www.qq22strawberry.cc
@@ -2821,12 +2820,9 @@ ysiohbk.camdvr.org
 ytimg2.com
 zammffayhd.ddnsfree.com
 zantrum.life
-zazloz-l9wad.kasperyedikfih.com
 zeebusiness.page.link
 zephyr-code.com
-zerocap.vip
 zerteyuhuiehioq-iurehbrkieriohre.pages.dev
-zesrtgfesrdgyzes.hosted.phplist.com
 zibymanga.cyou
 zimbirti.com
 zmcmvmbm.ddnsfree.com
