@@ -74,7 +74,6 @@ absoluod.cyou
 abyssalis.com
 acasiallc.shop
 access-authority-2fa21b0814.s3.eu-north-1.amazonaws.com
-access-authority-2fa5027dfb.s3.ap-south-1.amazonaws.com
 accessor.fud2026.com
 account-nexi.attivazione-it.com
 accsonewletreagenzia.t.mydomain.zone
@@ -163,6 +162,7 @@ anycont.com
 anyioba.lovestoblog.com
 aoudefn.rosecce.com.es
 apartsrvit.jdevcloud.com
+api.3n7wj.com
 api.gelukkigewinnaars.nl
 api.ra-backup.com
 aplicativo-br.com
@@ -174,6 +174,7 @@ app.burstminutemoney.pics
 app.butterslipmilitary.rest
 app.furniturecenter.me
 app.klarn.one
+app.klarnai.com
 app.languagemistsmooth.work
 app.limitmemoryweather.guru
 appinps.com
@@ -229,13 +230,13 @@ au-club.top
 au72nuxzv2.ufs.sh
 audioza.cyou
 augugliaro.altervista.org
+aurascompany.de
 aureumgt.com
 aurizae.com
 autcostrade.cc
 auth-login-dashboard.com
 auth-xsencisx.com
 auth.sviluppo.host
-authkwd.xx.kg
 authmail.edgeone.app
 authvesrng.im
 autismdefined.net
@@ -255,7 +256,6 @@ autovelox.online
 avatar.supearou.in
 avisfaxear24.clouddocs.my
 avrasyaosb.org.tr
-avviso.nataliamenendez.com
 avystore.com
 aw2o25forsbc.camdvr.org
 awcc001jdaigfwdagdcew.giize.com
@@ -264,8 +264,6 @@ axwtexa.ddns.net
 aytzyqs65.somee.com
 ayurvediccancer.com
 ayurvedicjobs.com
-azis-pro-ingitalia18.justns.ru
-b59678b1e948dd4c7bfb9b4a2aa52e0a.ilraduno.it
 bab2o25com.accesscam.org
 babaji.accesscam.org
 babi5599ss.ddnsgeek.com
@@ -324,6 +322,7 @@ blank-page-redirect-asyd.bolt.host
 blank-page-redirect-oxs7.bolt.host
 blank-page-redirect-r438.bolt.host
 blank-page-redirect-rb7g.bolt.host
+blanked.edgeone.dev
 blcocolors.in
 blestorians.cfd
 blitestark.cfd
@@ -403,7 +402,6 @@ casoneroutegold-prod-bggfgca0dkaag8a8.b01.azurefd.net
 catabar.cyou
 catalogo.castrouria.com
 catex.at
-catfoodeuro.shop
 ccammutom.ddnsgeek.com
 cdn2.milk-pay-secure.com
 cdnvmtools.theworkpc.com
@@ -501,7 +499,6 @@ coverxyzer.su
 cp398557.tw1.ru
 cprapid.com
 cracksecretaryable.click
-crescita.myclickfunnels.com
 cressmiss.ooguy.com
 crisiwarny.store
 crossat.cyou
@@ -551,10 +548,10 @@ dbbjfhjfhgjkjblkjkfkhutcyfhoikbtgrg.b-cdn.net
 dcd8ssqf73c561xtunn6fdmaeuzwjfizxi.kidgearshop.com
 dcsscs.top
 decisionautomation.org
-decizia.com
 deejaycountzer0.com
 delasser.ar
 delivery.dbcorp.in
+delivery.fyndplatform.com
 delivery.gofynd.com
 deloea.com
 delte-mobrey.com
@@ -641,8 +638,8 @@ efzdbt.b-cdn.net
 eishin-kk-co.asia
 eldesty.cyou
 electricidadmaza.com.ar
-elegant-almeida.43-131-13-192.plesk.page
 elements2788.appwrite.network
+emltrck-pro.com
 en.dev1.ir
 enchafehauberk.autos
 endoste.cyou
@@ -675,7 +672,6 @@ evilginx2.loseyourip.com
 evolutionsdubai.com
 exactra.top
 examp1e.webredirect.org
-exchangev2.armex-group.com
 exchank.cyou
 expedia.aplicativo-br.com
 expertensa.com.mx
@@ -693,8 +689,6 @@ fammies.com
 faniastudio.com.br
 fapp1.olacabs.com
 fasceadvcva3.gleeze.com
-fastconsulting.info
-fastdeliveryaservice.world
 fbgraph.com
 fbsimg.com
 fdlskgjdsqklklvklgds.b-cdn.net
@@ -738,7 +732,6 @@ freeios.theworkpc.com
 friendly-chebyshev.43-131-39-49.plesk.page
 fruit.vicre.biz.id
 fse-wf.cfd
-fseitalia.es
 ftp.abcebikes.com
 ftp.altatsradgez.com
 ftp.crescentegramas.com.br
@@ -766,6 +759,7 @@ fuettertdasnetz.de
 furniturecenter.me
 futurecorp.su
 fyanarana.ommoc.fytech-group.mg
+fyndplatform.com
 fysolika.alevanaos-anevoj.fytech-group.mg
 fytahiry.mg
 g16g.sqlserver.sbs
@@ -782,7 +776,6 @@ gaphmxpa.cyou
 gate-tj.com.cn
 gateway-cde.milkpay.systems
 gbugreport.com
-gencatitc.weebly.com
 generacsr.com
 genusgp.cyou
 genussy.cyou
@@ -799,11 +792,11 @@ giguoxo.cyou
 gitflymze.com
 gjizivji.hosted.phplist.com
 gleaming-asset.com
-global-pleymarket.com
 globalimmobiliare.com
 globoss.kozow.com
 glogstatic.com
 gmsstatic.com
+go.dgdp.net
 go.undiksha.ac.id
 goelmedical.co.in
 gogo2025up.ddnsfree.com
@@ -872,6 +865,7 @@ hemibar.sk
 herblimos.com
 heroic-kheer-c09595.netlify.app
 herolmaerprtopmal.fra1.cdn.digitaloceanspaces.com
+hezejiuluc.icu
 highqualitydealz.store
 hiremedicals.com
 hjfdsyuelasdhje.com
@@ -911,10 +905,7 @@ ikukuomagloballimited1.com
 ikukuomagloballimited2.com
 ikzbels.hosted.phplist.com
 ilaoiyt.justns.ru
-ilraduno.it
 immersion-vtt-morvan.fr
-imperialguard.icu
-imperiumgym.sk
 improve-ur-finance.com
 inautom.pw
 inbakn.resecio.es
@@ -953,15 +944,10 @@ intesaclient1.writesthisblog.com
 intesapagopa.boldlygoingnowhere.org
 intesasanpaolo-1a.com
 intesasanpaolo-1c.viewdns.net
-intesasanpaolo-6s.redirectme.net
-intesasanpaolo-6t.servegame.com
 intesasanpaolo-9q.onthewifi.com
-intesasanpaolo-proteggi-il-tuo-account.uhoiazdijopk.com
 intesasanpaolo-t6.servepics.com
-intesasanpaolo-yh.zapto.org
 intesassanpaolo.dash-area-clienti.com
 intesosarnpaolo.legders-update.com
-intessasanpaoloit-3005.twil.io
 introductions.vu
 invoice-0001.blogspot.com
 invoice-0003.blogspot.mx
@@ -1038,6 +1024,7 @@ kaidaisoo.contractors
 kakapupuneww.com
 karpatskelabky.sk
 kbytecomputacion.com.ar
+kcwbeauty.com.my
 kdshdshadgsjhkhsdjsjks.b-cdn.net
 kenaifj.live
 kgzgfw.cn
@@ -1053,6 +1040,7 @@ kimono-navi.net
 kingdavidthe-great.firebasestorage.app
 kingdomkeysforleaders.com
 kingkariuki.com
+kingpur.pt
 kinzipharma.com
 kiraad.myshopify.com
 kisa.link
@@ -1065,6 +1053,7 @@ klarna-consigliamo-pertanto-aggiornamento.wasmer.app
 klarna-helpsupport.com
 klarna.asyzyounger.com
 klarna.netsons.org
+klarnai.com
 klikomics.com
 kmtywcfvok.wpdns.site
 kokorostore.it
@@ -1106,7 +1095,7 @@ leadcushionstreet.lat
 leadmaestross.info
 leafyrm.cyou
 leatherpasteweek.click
-lecorticapalbio.com
+leavia.pt
 legacyhealingohio.com
 legalliaison123.com
 legders-update.com
@@ -1150,12 +1139,14 @@ ltiuys.ddnsgeek.com
 ltiuys.kozow.com
 lucid-buck.43-157-4-54.plesk.page
 lui4qz-h116k1-92z4rr-291rpukt9w.s3.us-east-1.amazonaws.com
+lupanetown.co.zw
 lurnex.world
 lxlwyc-ysbm9v-shy0ga-mmifsmp8sf.s3.us-east-1.amazonaws.com
 lyberteks.com
 lz6bq9474b.wpdns.site
 m-ch-skysports.com
 m-mgarg.com
+ma13nta13nc3.dynv6.net
 ma1wna-xp.myshopify.com
 macasaa.com
 macustudio.com
@@ -1204,7 +1195,6 @@ mail12.xegzer.top
 mail15.exactra.top
 mail8.wonderberg.online
 mailsdy.gleeze.com
-mailsetup.app
 mailtiscaliitserviziodigestione.weebly.com
 mailx0.me
 main.payprotectweb.com
@@ -1283,6 +1273,7 @@ mnubrk.haigetal.org
 mobile-dongsheng.com
 mobilik.xyz
 modgood.gleeze.com
+mohabaldesteamworksd67e3.myclickfunnels.com
 mohaniprintingsolution.com
 molewyn.cyou
 mooneybank-italiane-service-it.stackstaging.com
@@ -1292,7 +1283,6 @@ morgenland.pt
 mosslotus2020.shop
 motive-pact.com
 mpa.li
-mpaliza1821.pythonanywhere.com
 mpi03b-6a.myshopify.com
 mrekuro.hopto.org
 msdpoll2000.com
@@ -1335,11 +1325,11 @@ namiko.ordo-consulting.com
 nanafafa.myvnc.com
 naripays.com
 narroxp.su
-nataliamenendez.com
 navinity.id
 navygenerayk.store
 ndemmaldsoapk.sfo3.cdn.digitaloceanspaces.com
 necklacedmny.store
+nekostreamcore.com
 nenigncagvawr.giize.com
 nenignenigoncqvoo.ooguy.com
 nenigoncqnutgo.accesscam.org
@@ -1347,11 +1337,11 @@ nenigoncuopzc.giize.com
 neptu.ydns.eu
 nest.eshep.net
 netsons.org
+neuvop.ydns.eu
 newfastlines.com
 newsafelsrecuritymangement-protctionbnl.pasitenetwork.com
 newservicedafaultloads.technicalsafehomeapplicaeuuoondrvpointdeloying.help
 nexi-gy.viewdns.net
-nexi-proteggi-il-tuo-account.uhoiazdijopk.com
 nexusconsultants.online
 nexuswebshop.com
 nh7g4d3gj09lop467e.kunden-online.com
@@ -1482,6 +1472,7 @@ notifichedigitali.asia
 notifichedigitali.autos
 notifichedigitali.bar
 notifichedigitali.beauty
+notifichedigitali.bid
 notifichedigitali.boats
 notifichedigitali.bond
 notifichedigitali.buzz
@@ -1690,6 +1681,7 @@ notlfichedigiteli.bond
 notlfichedigiteli.shop
 novabytelabs.sa.com
 novasignal.st
+noventrell.com
 nquero.expertenzirkel.info
 nskki3.tvfootclub.fr
 nutide.top
@@ -1784,6 +1776,7 @@ pagope.managevention.com
 pagovpa.cfd
 pagpa-authp.nogrup.com
 palamolscueajfvc.gleeze.com
+panel-hosting.minddrive-coaching.de
 panel365webdocumentazionesicuro.org
 panelmajor.pro
 panlg.ordo-consulting.de
@@ -1829,7 +1822,6 @@ pirobelenbk.ydns.eu
 pixiio.com
 pl7te6-ixg19m-ezhnam-bxwkc96uj7.s3.us-east-1.amazonaws.com
 playstations.click
-playstoreapps.biz
 plcoaweniva.ddnsgeek.com
 plj.servicehosttppl.org
 pngup.com
@@ -1885,8 +1877,7 @@ pxlaxvvva.freeddns.org
 q2psuv-u0ien6-ljor43-q6f9mkdizm.s3.us-east-1.amazonaws.com
 qamom.com
 qfsregistry.com
-qinerdime.servehalflife.com
-qinerdime.ydns.eu
+qnyklg.icu
 qslmqsmlqs.hosted.phplist.com
 qualityprintwaresstore.shop
 quitgod2023luck.giize.com
@@ -1901,6 +1892,7 @@ radiantbatteries.co.uk
 raifdevelopments.com
 raisinggenpure.com
 rangetelecom.com
+rateagency.info
 rawfurniturebd.com
 rayalaseemakings.in
 rayid-d.com
@@ -1909,6 +1901,8 @@ realethicsblog.com
 realtimenetworksteab5eff.myclickfunnels.com
 recyclqb.cyou
 red-netf.dcsscs.top
+red64.duckdns.org
+red64bk.duckdns.org
 redirct.ru
 rediwor82--3eff16a4051911f19ae042dde27851f2.web.val.run
 reduiiiiii556.cannerorivieraonthebeach.it
@@ -1966,7 +1960,6 @@ romatac.pro
 romatac.site
 romatac.vip
 romeatac.lat
-romeatac.my
 ronaldegesa.com
 ronininvestors.com
 roomsinfo-stays731.com
@@ -1993,6 +1986,7 @@ s1119338.ha007.t.mydomain.zone
 s1119659.ha007.t.mydomain.zone
 s1126019.ha009.t.mydomain.zone
 s1191217.ha023.t.mydomain.zone
+s1216492.ha021.t.mydomain.zone
 s3.filmlabfestival.it
 sad360htd.com
 sadolmsldfer.atl1.cdn.digitaloceanspaces.com
@@ -2055,6 +2049,8 @@ salutve.qpon
 salutve.sbs
 salutve.shop
 salutve.vu
+salutvel.cfd
+salutvel.sbs
 salutxe.cc
 salutxe.vu
 salutze.cc
@@ -2076,11 +2072,11 @@ sangvvoo.com
 sanicue.cyou
 sanitatesserait.com
 sannafedaefsti.en.gp
-sannita-it.com
 saoimzopagamentohostailzo.lol
 sardweb.org
-satbeerday.com
 saudiab.cyou
+savlutte.cfd
+savlutte.cyou
 scalapay-it.com
 scarfkn.cyou
 scentlabs.sbs
@@ -2104,6 +2100,8 @@ sergiotrabuccocineasta.com
 serious.kozow.com
 serlapsm.sfo2.cdn.digitaloceanspaces.com
 serolsmfd.atl1.cdn.digitaloceanspaces.com
+servic.service-acar.de
+service-acar.de
 service-renewal.sound4you.audio
 service000023233servernotificatiions9990009.s3-eu-south-2.ionoscloud.com
 servicehosttppl.co
@@ -2122,6 +2120,7 @@ sgasuaiyusyhhjs.b-cdn.net
 sgsn.accesscam.org
 sh-cp11.yyz2.servername.online
 sh-cp2.lax2.servername.online
+sh-cp8.lax2.servername.online
 shahid-mbc-com.supervps.org
 shatteredsite.com
 shdjcfbksbdiujhvbdishjsbkdkuhjqw.blogspot.com
@@ -2130,6 +2129,7 @@ shieldns.my
 shieshan.ydns.eu
 shinobidatacore.com
 shorted.cyou
+shy-hall-9c09.cryptersandtoolsoficial.workers.dev
 sicurezza-dcz.onthewifi.com
 sicurezza-del-cliente.net
 sicurezza-intesasanpaolo.uhoiazdijopk.com
@@ -2142,6 +2142,8 @@ sisurya.site
 site-ground-agent-id.paolocaiazzo.info
 siteteste.pr2.com.br
 sitground-usd.id-all-inkl.org
+skt.3n7wj.com
+sktv.3n7wj.com
 skydreammers.com
 sleepyandreams.com
 sliidee.com
@@ -2155,10 +2157,10 @@ snakezl.cyou
 snkmarine.biz
 snyb4jflsa.wpdns.site
 so140yara3um.s3.ca-central-1.amazonaws.com
-soaringcaribbeanintl.org
 socialimpact.hosted.phplist.com
 solar-sanat.net
 soovuy.gleeze.com
+sound4you.audio
 sowemoveahead.top
 space-teampro.com
 spiltovercup.ink
@@ -2193,6 +2195,7 @@ stfboilers.it
 stitches2impress.co.uk
 stockinprize.com
 stopath.com
+storjovpn11.dynu.net
 stpetervini.sk
 stradait.click
 stradait.digital
@@ -2219,11 +2222,11 @@ sudwerkriverside.com
 sumas--noas-7640-userason.wpdevcloud.com
 sumpaym.net
 sumup-it.klantenservice-pg-ag.im
+sunix-technology.com
 suomaresanu-oiaunxczma.wpdevcloud.com
 supceasfg1.loseyourip.com
 support-info.com.es
 supportdhlonline.cloud
-supportointesanpaolo.satbeerday.com
 svcopt.ac.in
 sviluppo.host
 svilupposoftwarecustom.it
@@ -2307,16 +2310,20 @@ transport.dynuddns.net
 traumadj.cyou
 trc34dc.fit
 trc4.giuliacomola.it
-trfgvbui.justns.ru
+trenitaliia.cfd
+trevalnix.com
 tribadu.cyou
 trichoi.cyou
 troyouc.cyou
 trustbastion.com
+trusting-pink-cheetah.31-22-7-7.cpanel.site
 trvcl.bumbleshrimp.com
 ttsiou12.loseyourip.com
 tutaj-dompl.com
+tv2play.kingpur.pt
 tvfootclub.fr
 tw1.ru
+twostudioft2812.com
 txiri8aipwb.avisosnotificaciones.store
 txm79p-dtz1fd-haml17-sbmgbsvmi3.s3.us-east-1.amazonaws.com
 tzvxoe4mjvo4arhlxhyjywrjbwocbqzuyynnum.gotchacoverd.com
@@ -2330,7 +2337,6 @@ uclearakcyjnaseb635.myclickfunnels.com
 udieyg.gleeze.com
 ufficiale-xme1.servehalflife.com
 ufiygscjkxbsjhkcbxhksjjksczhjudshj.blogspot.com
-uhoiazdijopk.com
 uhu08908.s3.amazonaws.com
 uhu0c9c1.s3.amazonaws.com
 uhu38bfb.s3.amazonaws.com
@@ -2349,6 +2355,7 @@ ultd.digital
 umpgsongs.music
 unchewq.cyou
 underpt.cyou
+unicredit-tme.shop
 uniiwork.online
 unimaxtechnologies.in
 unionderugbydecuyo.com.ar
@@ -2371,7 +2378,6 @@ uqr.ai
 usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com
 uscelluliar.com
 uscplxsecjs.ddnsgeek.com
-userswix-com-signin.lecorticapalbio.com
 userswixcomsignin.vrpengineering.com
 useweekheart.guru
 ushort.info
@@ -2394,8 +2400,10 @@ vaultsphere.su
 vciiylbchcgjifadg.technicalsafehomeapplicaeuuoondrvpointdeloying.help
 veltua.de
 velvetpaw2031.cfd
+veneto-gen0129-m-010.sgp1.digitaloceanspaces.com
 verbala.cyou
 verbraucher-service-ratgeber-be.online
+verification.autos
 verify.securedenvironment.com
 verifylogon.linktosite.co
 veropmalxld.sfo2.cdn.digitaloceanspaces.com
@@ -2434,6 +2442,7 @@ vulelija.eu
 vurigdooptakemetodown.info
 vvvvvvvv09kntaxgjuyghbxqyjgcvcxsdfghjrtesdfxcvsgnvcg877654t.wpdevcloud.com
 w9x3rxevw.forim.it
+waelderakademie.de
 wagoto.info
 walekaforeyiy.myclickfunnels.com
 waterheathwave.com
@@ -2446,7 +2455,6 @@ webdot.ddns.net
 weblnps.eu.cc
 webmail-cpsess-super-duper-journey-navy.vercel.app
 webmail-cpsess-traffic-bal-xxx.vercel.app
-webmail-unibas.weebly.com
 webmail.gruptesi.cat
 webnotiziepagopa.is-certified.com
 webonline-adoba-pdf-secureservec-login-pdfs-dpml0pxjt7a5.zh-cn.edgeone.cool
@@ -2773,7 +2781,6 @@ www.loutilk.com
 www.lphq2.top
 www.lullora.pro
 www.maendeleo.co.za
-www.mailsetup.app
 www.maltelindellgolf.se
 www.manageramp.xyz
 www.manukalena.com
@@ -2979,14 +2986,11 @@ www.yourmoneymenders.org
 www.yshkj02.top
 www.zamin.us
 www.zh-hk-bsports.org
-www.zqdis865.somee.com
 www.zsaty.xyz
 www.zymoraorbit.cfd
 www.zyouqj.mobi
 wwwpago-painvoic.cleaningservicedicumbocarol.it
-wynner-sports.de
 x.chonettoyage.com
-x0qry.mjt.lu
 xcge-yrax-wu3p.n7e.xano.io
 xe54ghj.com
 xegzer.top
@@ -3004,7 +3008,6 @@ xozike.opinionforgex.com
 xtadts.ddns.net
 xtw.zut.mybluehost.me
 xuione.shop
-xxpqz8hbb.cc.rs6.net
 xyies.retained.com.de
 yandex-disk.net
 yarddrq.cyou
@@ -3035,7 +3038,6 @@ zewaplus.club
 zibymanga.cyou
 zmcmvmbm.ddnsfree.com
 zoom-meeting97987.s3.us-east-2.amazonaws.com
-zqdis865.somee.com
 zqlmsmss.hosted.phplist.com
 ztlmilan.site
 zut.mybluehost.me
