@@ -25,6 +25,7 @@
 2kg6kdfgicpvbu0.top
 2kjkljkjlkljsdsd3lkkjkljjklkjklsdds.s3.us-west-2.amazonaws.com
 383dc066a7.nxcli.io
+38624.org
 3942.ap
 3dsecurio.com
 3dsecurio.s3-website.us-east-2.amazonaws.com
@@ -56,6 +57,7 @@
 80596e25.vcstrucks.be
 845987494.blogspot.com
 888gaspol8fb99.cyou
+8d-securiscore.com
 8hmlb1r9szgucx7.top
 8pkhvf1f.r.eu-central-1.awstrack.me
 9-160-105-23.cprapid.com
@@ -190,6 +192,7 @@ agenzia.cam
 agenzia.inkm.cam
 agenzia.inkn.cam
 agenzia.it.com
+agenzia.us.cc
 agenziaeetrate.sbs
 agenziaenitrate.qpon
 agenziaentra.cc
@@ -358,6 +361,8 @@ apostrwz.cyou
 app-692ee3c1c1ac180eaca8ae12.closte.com
 app-69526e32c1ac1812bca76f3a.closte.com
 app-cloudns27648536-areaclienti002.mhhliving.com.au
+app-klarna-account.com
+app-klarna-italy.com
 app-n26-login.pkoethe.com
 app.furniturecenter.me
 app.tmgg01.top
@@ -369,6 +374,7 @@ application-managing-cloufd346858.tweedphysio.com.au
 appsupport.sfo2.digitaloceanspaces.com
 aptabase.fud2026.com
 aptabase.khwdji319.xyz
+aquatecnica.ao
 aqxwiafsdvb231.t.mydomain.zone
 aravaeducraft.com
 area-client524010005409197197.2523.ru
@@ -380,6 +386,7 @@ aristrials.com
 aromadiroma.org
 arrt.geaavhiphgood.live
 arszientz.click
+aruba-hosting.8d-securiscore.com
 aruba-hosting.medioservizio.dpdns.org
 aruba101.online
 aruba548875421it.2523.ru
@@ -622,6 +629,7 @@ cheship.cyou
 chiangmai-goettingen.de
 china-festivals.com
 china-phillips.com
+chloehartstudio.com
 chronicle-log.com
 chuckyr.cyou
 chunhuating.best
@@ -667,6 +675,7 @@ cobrancaonline.lat
 cobrancaonline.pagamentoonline.lat
 code1.ydns.eu
 codemicros12.gleeze.com
+codexabd.online
 cofeemager.jdevcloud.com
 coklar.caymancapital.net
 colaservta.rouesabico.es
@@ -727,6 +736,7 @@ cvpc01cgsdfn53hgd.giize.com
 cx8vmdjAiQH3gtKOSp1S7i4WD7m87VIhKxx6Opn7a.kicards.com
 cyberplg.cyou
 cydevv.com
+cyon.site
 cypyxp.hosted.phplist.com
 cz.gpgmk.com
 d-pdf.lat
@@ -759,6 +769,7 @@ dati.registroimprese.site
 datis.cam
 datitarga.it
 datls.cam
+datxit.com
 dbbjfhjfhgjkjblkjkfkhutcyfhoikbtgrg.b-cdn.net
 dcd8ssqf73c561xtunn6fdmaeuzwjfizxi.kidgearshop.com
 dduaxvyf.elementor.cloud
@@ -827,6 +838,7 @@ domini.comunicazionistaff.info
 doneplay.site
 doorabldey.com
 dopamsld.nyc3.cdn.digitaloceanspaces.com
+douyinfx.cc
 dpsgorakhpur.co.in
 dragonelevator.com
 dragonmysticsoul.cfd
@@ -849,6 +861,7 @@ e57ovloc4y.wpdns.site
 ebonizz.cyou
 eburd.sfo3.cdn.digitaloceanspaces.com
 echoratio.com
+ecqaws4ugnozsloyj4vl.app-klarna-italy.com
 edgersonjackline486-najera.systeme.io
 editorr.cyou
 edlweijfoiewjfowjfoewj.b-cdn.net
@@ -880,6 +893,7 @@ epicenf.cyou
 epos.fmg.uva.nl
 equibalance.de
 erddds.b-cdn.net
+erikovo.ru
 erw.bsttotrk.com
 eshfd.cfd
 essentiarna-it.ltsmessentielarea.click
@@ -906,6 +920,7 @@ exposqw.su
 extensions.lat
 f005.backblazeb2.com
 faba.orbitalsignalforge.com
+fabiolinck.online
 fac18082026.eu.loclx.io
 fadehairucw.store
 faeelt.giize.com
@@ -993,6 +1008,7 @@ fmg.uva.nl
 fmlfmf6zfr.com
 fmuniverso.com
 fnr.it.com
+fo76wvqmuwkzuqd9uklr.app-klarna-italy.com
 focused-ivory-owl.31-22-7-7.cpanel.site
 foelgebil.dk
 fookaer.helluevents.de
@@ -1022,6 +1038,7 @@ ftp.holzbrenzii.com
 ftp.info-projekt.rs
 ftp.kofuuy.cam
 ftp.piovau.com
+ftp.ritubohara.com
 ftp.rusticpensiune.ro
 ftp.sanchezamador.com.mx
 ftp.scoalarmas.com
@@ -1102,12 +1119,15 @@ gov.agenz.my.id
 gov.agenz.us.cc
 gov.agenzia.cam
 gov.agenzia.it.com
+gov.agenzia.us.cc
 gov.agenzla.cam
 gov.aggiorna.cam
 gov.fiscale.cam
+gov.fiscale.us.cc
 gov.flscale.cam
 gov.inita.cam
 gov.irpeff.cam
+gov.irpeff.it.com
 gov.irpeff.us.cc
 gov.irpefs.cam
 gov.irpefs.us.cc
@@ -1120,6 +1140,7 @@ gov.ottieni.cam
 gov.portaie.cam
 gov.portales.cam
 gov.richiedi.cam
+gov.rimborso.us.cc
 gov.sistema.cam
 gov.slstema.cam
 gov.veriflca.cam
@@ -1286,8 +1307,11 @@ inpscomunica.it
 inpsdati.it
 inpsfacile.it
 inpsweb.it
+inqeit.com
+inqxit.com
 insdati.cam
 inserisci-dati-avviso-pagopa.legacyhealingohio.com
+inspectionklarnae.sviluppo.host
 instawp.xyz
 intb.cam
 intbc.cc
@@ -1295,6 +1319,7 @@ intc.cam
 intd.cam
 inte.cam
 interrg.cyou
+interrupcionese.tsisa.es
 intesa-clienti.com
 intesa-sanpaolo-italia-b.serviziodiguida.dpdns.org
 intesa-sanpaolo.fiducia-key6.com
@@ -1332,6 +1357,7 @@ irpef.cam
 irpef.click
 irpef.it.com
 irpeff.cam
+irpeff.it.com
 irpeff.us.cc
 irpefl.cam
 irpeflc.it.com
@@ -1378,6 +1404,7 @@ itzgov.cam
 iudfchkjsdvjkxbkgsdhjhsikhjguakshjgg.blogspot.com
 iuhjshgyutxsghjahxisuyftdghjahkyut.blogspot.com
 iuvgkjhsdkjhcisduyghgjsdhuihksjsf.blogspot.com
+ivcavna.com
 ivide.granvelada.info
 iybyg92vqiq6gns.top
 izzardtow.su
@@ -1407,6 +1434,7 @@ jomacmx.com.mx
 journeymatrixchecklist.s3.eu-west-2.amazonaws.com
 jslxsb9ivpmyin9kpa7wi2l9tsh4rdz5uxi58.desoto-fc.com
 jsonserv.live
+jts6831897.casa
 judicis.cyou
 juditheugene.com
 jumwe.top
@@ -1429,6 +1457,7 @@ kdshdshadgsjhkhsdjsjks.b-cdn.net
 kelifa.info
 kemkes.go.id
 kenaifj.live
+kereszturicatering.hu
 khaki-dahlia-28ra.squarespace.com
 khanmedicalcomplex.com
 khgfjhgkhl-kljkhjghkhlk-hgfdhgjhkjlk.b-cdn.net
@@ -1512,11 +1541,13 @@ limulit.cyou
 linakspa.z13.web.core.windows.net
 lindabrindisi.it
 lineduz.cyou
+linkobalt.eu
 linktosite.co
 littlep.top
 lively-fog-af49.pablosoftwareplus.workers.dev
 livemala.com
 livenettvtv.com
+ll6993.craftum.io
 lnsdati.cam
 lnsdatl.cam
 localmoxie.com
@@ -1885,6 +1916,7 @@ novtixzcr.cfd
 novtixzcr.click
 novtixzcy.click
 nquero.expertenzirkel.info
+nr5kjodv3oyv8ig6sqfh.app-klarna-italy.com
 nsjdkas.click
 ntsa.lnsdatl.cam
 nupexa.com
@@ -1897,6 +1929,7 @@ nvtifivch.click
 nw-updater.vercel.app
 nyc-estates.com
 o3rnns-p8up6w-95pvg5-4wm10sauq3.s3.us-east-1.amazonaws.com
+o5sprqkjh65zkzpxgm44.app-klarna-italy.com
 oblvn.sbs
 obrecol.pt
 obyonlinez.ydns.eu
@@ -1938,6 +1971,7 @@ orbitalsignalforge.com
 osix.ddnsgeek.com
 otax.fun
 otax.store
+otfvzspwhgz06bxkbfqo.app-klarna-italy.com
 ottieni.cam
 ou6060.com
 ou6161.com
@@ -1956,6 +1990,7 @@ pabnaautomation.com
 paga.managevention.com
 pagad72662.systeme.io
 pagamenti-semplici-rateali-per-cose-accontsclpy.wasmer.app
+pagamentohosstingeservizioaoomapqesella.lol
 pagamentoonline.lat
 pagamentostrada.click
 pagamsita.ydns.eu
@@ -2044,6 +2079,7 @@ performs.vu
 personrg.cyou
 pesterbdd.com
 pewsus.freeddns.org
+pgttravel.my
 pgv.it.com
 phantom.linktosite.co
 phrupmv.su
@@ -2054,6 +2090,7 @@ pirobelen.ydns.eu
 pirobelenbk.ydns.eu
 pitk.it.com
 pixiio.com
+pkyjs.rtdecab.com
 pl7te6-ixg19m-ezhnam-bxwkc96uj7.s3.us-east-1.amazonaws.com
 playstations.click
 playstoreap.lovable.app
@@ -2088,6 +2125,7 @@ poste-italianepay-servizioclienti.thefinancepro.store
 potashbx.cyou
 pothi.eu
 power-builders.net
+powercards.online
 pox.it.com
 ppl-frpplfr-9322.twil.io
 pplodsssead222.loseyourip.com
@@ -2165,6 +2203,7 @@ recdit.nomservyukzooetionscserviczioliiqlo.cyou
 receitafederalrfbauditoriafiscal.mifacturasyservicios.site
 recyclqb.cyou
 redaru.handballmarathonhscgraz.at
+rediio.pagamentohosstingeservizioaoomapqesella.lol
 redirection-page-hfwf.bolt.host
 rediwor82--3eff16a4051911f19ae042dde27851f2.web.val.run
 redurect.flywheelsites.com
@@ -2242,6 +2281,7 @@ rimborso.my
 rimborso.my.id
 rimborso.shop
 rimborso.top
+rimborso.us.cc
 rin.voltbyel.se
 rinnotessera.com
 rinnov2433.hosted.phplist.com
@@ -2250,6 +2290,7 @@ rinnovotessera.com.s3-website.us-east-2.amazonaws.com
 rinnovspi.online
 rinova-app.fordoncity.se
 risv.it.com
+ritubohara.com
 riversyakos.freeddns.org
 rizqinsb.com
 rk09la-fdn9er-61kboh-hbf0mg8f8z.s3.us-east-1.amazonaws.com
@@ -2267,6 +2308,7 @@ rough-truth-e072.publicftpresend.workers.dev
 royaltexfab.com
 rse.it.com
 rsm323.kozow.com
+rtdecab.com
 rtqmefanrppja.site
 ru3s4trk.com
 ruesvczmnxaso-ourewasmzvcbx.wpdevcloud.com
@@ -2277,6 +2319,7 @@ s-dfango-27kgf.bacherprofess.co.uk
 s-dfango-7akpd.significants.co.uk
 s-dfango-fjind.newfastlines.com
 s-pdf.lat
+s.ivcavna.com
 s.kemkes.go.id
 s1106826.ha003.t.mydomain.zone
 s1119338.ha007.t.mydomain.zone
@@ -2335,6 +2378,7 @@ secure.privacy-nest.net
 secure365.lunarwireecho.org
 secureportalplay.com
 securesafezone.com
+sednin.top
 sehu.dujafafo.cfd
 sekync.com
 sel6bu6eft06.primevoria.com
@@ -2444,6 +2488,7 @@ soundcast.me
 southernct.uk.com
 sow.ric1.cdn.digitaloceanspaces.com
 sowemoveahead.top
+sowt.eu.cc
 spa.bugbucket.org
 speed-safe-boost-install.autos
 spiltovercup.ink
@@ -2509,8 +2554,11 @@ sumpaym.net
 sumup-it.klantenservice-pg-ag.im
 suomaresanu-oiaunxczma.wpdevcloud.com
 supceasfg1.loseyourip.com
+supersloteasy.com
 supmercadosilva.online
 suppocontoup.com.es
+support-id.eu.cc
+support-it.eu.cc
 support.itsme.mise.a.jour.ivetapappova.sk
 supporto-id.eu.cc
 supporto-ids.eu.cc
@@ -2600,6 +2648,7 @@ teste.m-pdf.lat
 teste.notafiscalseletronica.com
 tfjalina.wrosecce.com.es
 tfke0dnf.com
+thaeit.com
 thalamocorticallodestar.sbs
 thamberena.com
 thbio.kozow.com
@@ -2611,6 +2660,7 @@ thegrapeco.cam
 theipgenerations.com
 themefic.site
 theriddler.de
+thetheatercompany.net
 thoughg.cyou
 thumbystriw.store
 tibikha1.blogspot.com
@@ -2661,6 +2711,7 @@ trovesofverifiedgiftsloot.click
 troyouc.cyou
 trustbastion.com
 trvcl.bumbleshrimp.com
+tsisa.es
 ttl.it.com
 ttn.it.com
 ttsiou12.loseyourip.com
@@ -2788,6 +2839,7 @@ vmi3546927.contaboserver.net
 vmi3556510.contaboserver.net
 vmi3563513.contaboserver.net
 vmi3579294.contaboserver.net
+vmi3612080.contaboserver.net
 vmsgroep.com
 vmtools.camdvr.org
 vmtools.loseyourip.com
@@ -2878,6 +2930,7 @@ ww1-pagopa-gov.tktxsupply.net
 ww3-ledger.com
 wwl.pho.mybluehost.me
 www-fatturazione-aruba-app-loginsecure.secur-de.com
+www-ing-d9sg.emailsview.app
 www-ing-ee89.emailsview.app
 www-ing-w0fe.protezione.app
 www-ing13tn.sicurezzaconto.co
@@ -2904,6 +2957,7 @@ www.28159robinave.com
 www.29870889.xyz
 www.29871479.xyz
 www.3701157.xyz
+www.38624.org
 www.45029605.xyz
 www.464633.com
 www.5139kkk.com
@@ -2986,12 +3040,14 @@ www.checkoutpartner.xyz
 www.cheng770.cyou
 www.chiangmai-goettingen.de
 www.china-festivals.com
+www.chloehartstudio.com
 www.cityeit.com
 www.cityiit.com
 www.cleanyourdebt.com
 www.clt.it.com
 www.cnmzke.click
 www.coachi.ch
+www.codexabd.online
 www.coinvistapro.shop
 www.coldflake.space
 www.coldsip.ee
@@ -3003,6 +3059,7 @@ www.d4jv5y.top
 www.d95cl.top
 www.dallugehammers.com
 www.dalmatas.cl
+www.datxit.com
 www.decisionautomation.org
 www.defense-optimized-guard-lightweight.autos
 www.defenseaccuratesafehot.autos
@@ -3010,6 +3067,7 @@ www.deikos.xyz
 www.desentupimentonapenha.com.br
 www.destinationweddinglazio.com
 www.dizilab.com
+www.douyinfx.cc
 www.dreamjilibu.com
 www.dreamsoftbv.com
 www.drjulive.com
@@ -3024,6 +3082,7 @@ www.emoci.net
 www.en-en-neuropan.com
 www.ender-vanilla.cc
 www.eralo.xyz
+www.erikovo.ru
 www.ernaehrungswelted.com
 www.erothots.pics
 www.estoraprint.com
@@ -3034,6 +3093,7 @@ www.exprocrm.com
 www.ezilyunmasked.com
 www.f150tires.com
 www.f7irfs.com
+www.fabiolinck.online
 www.fathelit.top
 www.feedsafepro.com
 www.fenrell.com
@@ -3094,6 +3154,8 @@ www.informatoreagrario.it
 www.innerfuelenergyqg.info
 www.inps-web.it
 www.inpsfacile.it
+www.inqeit.com
+www.inqxit.com
 www.introtrans.com
 www.isk.it.com
 www.ist-lnps.it
@@ -3111,6 +3173,7 @@ www.jnhgwnew86.com
 www.johntorrens.org
 www.jslanquzhibo.com.cn
 www.jsvkq.info
+www.jts6831897.casa
 www.jumwe.top
 www.k7research.me
 www.kadin-maluku.org
@@ -3120,6 +3183,7 @@ www.kdrama-room.com
 www.kei-waii.store
 www.kelifa.info
 www.kenney-painting.com
+www.kereszturicatering.hu
 www.kingkariuki.com
 www.kinzipharma.com
 www.kirela.site
@@ -3143,6 +3207,7 @@ www.legenda-sochi.com
 www.lelaro.live
 www.lga.it.com
 www.lgo-gacorsukses.top
+www.linkobalt.eu
 www.localmoxie.com
 www.lolaglaskunst.nl
 www.lopmimy.top
@@ -3196,12 +3261,14 @@ www.pbg4jptrk.com
 www.peaklivinghealthcare.online
 www.pelivo.live
 www.peloa.site
+www.pgttravel.my
 www.pgv.it.com
 www.photoframe.app
 www.picaxstudio.com
 www.pkvikyy.help
 www.playstarslot.shop
 www.podsolnuhprint.ru
+www.powercards.online
 www.pox.it.com
 www.premiumhostlogic.com
 www.presstima.com
@@ -3235,6 +3302,7 @@ www.salus-arbanas.hr
 www.sardabusinessgroup.com
 www.sdscoot.com
 www.sdtuanjian.xyz
+www.sednin.top
 www.sekync.com
 www.sellerscloseout.com
 www.servinonline.justns.ru
@@ -3269,6 +3337,7 @@ www.stck-gals.com
 www.stormise.rest
 www.studiocimaroli.it
 www.sturmmann.store
+www.supersloteasy.com
 www.tada5.win
 www.taibeinan.cc
 www.tairof.xyz
@@ -3282,10 +3351,12 @@ www.techserver.online
 www.tennesseeartist.com
 www.terbang128.space
 www.tfke0dnf.com
+www.thaeit.com
 www.thamtuthaibinh.info
 www.theelevenglobal.com
 www.themefic.site
 www.thenilsonteam.com
+www.thetheatercompany.net
 www.timbreandtimber.com
 www.tinyharbor.ru
 www.tmmarinebd.com
@@ -3347,6 +3418,7 @@ www.zu86x.top
 www.zunmik.info
 www.zyouqj.mobi
 www.zzwksw.com
+xc33gtwsfjz9uy2aw6qq.app-klarna-italy.com
 xegzer.top
 xelvireq.shop
 xiongmaocs.help
@@ -3392,6 +3464,7 @@ ysuxml.onseinsaat.com
 ytimg2.com
 ytrfs9dti3bllhgybsmacwj3rjq2ik7gg3lc.debbydot.com
 yy8qxt1k.com
+yzkgiqxci5gmdlbc4lcz.app-klarna-italy.com
 z5p1v8k3w7a0t4g9ny.live
 z6f2p8w4j1t9g3b7mx.live
 zahnarztlisthannover.de
