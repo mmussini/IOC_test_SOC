@@ -3,6 +3,8 @@ http://104.168.132.72/oct.apk
 http://104.168.132.72/oppy.apk
 http://104.168.132.72/osbf.apk
 http://104.168.132.72/osbgg.apk
+http://107.172.148.215/00ER05
+http://107.172.148.215/87/wemadegoodthings.hta
 http://107.172.206.125/img/1.jpg
 http://107.172.235.254/0xF10
 http://107.172.235.254/88/cleaningpcall.hta
@@ -20,6 +22,7 @@ http://109.248.150.173/lfSQXvzt162.bin
 http://129.121.148.240/22/inetcapcha.hta
 http://129.121.148.240/24/powerful.hta
 http://129.121.148.240/24/veryperfect.js
+http://129.121.148.240/img/pics/3.jpg
 http://129.121.148.240/img/secured_stub.ps1
 http://129.121.148.240/img/secured_stub1.ps1
 http://134.122.153.136:18085
@@ -47,6 +50,7 @@ http://178.16.54.15/link/AUL_322.bat
 http://178.16.54.15:80/link/AUL_32.bat
 http://18.139.79.161
 http://185.137.93.64/jeJFJgh9.bin
+http://187.52.45.38:56932/RuntimeBroker.exe
 http://192.177.111.148/50/weneedbestthingsforme.htA
 http://192.177.111.148/50/wenneebestthigns.js
 http://192.177.111.148/72/cleaningproces.hta
@@ -101,6 +105,7 @@ http://51.38.247.67:8081/_send_.php
 http://52.90.150.15:1544/RGw4QkU4NTg5MUEyQzM0RUM1NTI4MkYwNzI4OURGMDY0QUY4MDc0MUIwREI2RkVGNjhFRTAyMDQxRTE1NTBEMTUxRjk3MEY3MEUwMjZBODQ5MDhDRUIwNjE4Mjk0RkIyMzBDNjVBQUVFODBBMjA1MkE0OTNBNDI0RDg1OTg5OTU5Q0ZDNjlERjY1REM3MEYwNzBFQzBDNjI5RUE4MzFCQURCMEMzMUJCREIyQj
 http://52.90.150.15:6728/a3ozREJEQzYwMzY3ODVGRjM2OUNDMjMxRDg2RkY5N0VDNjA4MTE0RjlCMzVCRDM4RTMwQjU2RUQ
 http://64.202.189.143/
+http://64.224.17.115/img/3.jpg
 http://64.224.17.115/pictures/2.jpg
 http://64.89.160.97/5.jpg
 http://77.83.196.75/50/doucments_499404.js
@@ -133,7 +138,6 @@ http://ct156779.tw1.ru/pa/pa/send.php
 http://cz239421.tw1.ru/pa/pa/
 http://cz239421.tw1.ru/pa/pa/infos.php
 http://cz239421.tw1.ru/pa/pa/send.php
-http://d-nd.net/65516854be
 http://damagemorningsock.beauty/O9NxZyE
 http://delivery.icmai.in/YXLKWRE
 http://delivery.mstock.com/XQKTESNMA
@@ -246,6 +250,7 @@ http://sea-shared-15.hostwindsdns.com/~nbhkrcuc/image/app/pa/infos.php
 http://sea-shared-15.hostwindsdns.com/~nbhkrcuc/image/app/pa/send.php
 http://sea-shared-15.hostwindsdns.com/~nbhkrcuc/image/app/panel/classes/processor.php
 http://seatrans.co.in/assets/slider/it/chkerr.php
+http://sendarit.com/it/
 http://share.google/JMz5NHhVnF9QPQo3T
 http://shpfyd.com/cYXGVRZ
 http://sidialiitalie.jdevcloud.com/wp-mai/
@@ -781,9 +786,6 @@ https://4f8a1682.vcstrucks.com/api/enc-key
 https://4f8a1682.vcstrucks.com/api/page-loaded
 https://4f8a1682.vcstrucks.com/submit-payment
 https://4f8a1682.vcstrucks.com/view
-https://4fnve6voro.localto.net/invoice/
-https://4fnve6voro.localto.net/invoice/View.php
-https://4fnve6voro.localto.net/invoice/pdf.php
 https://4jhkjhkkjjhjhjkjjsdds3lkkjkljjklkjklsddsds9kjdskjdsjkldsjkld.s3.eu-west-2.amazonaws.com/4jhkjhkkjjhjhjkjjsdds9kjdskjdsjkldsjkld
 https://4ofb588h6x.vcstrading.eu/
 https://5.230.201.16:8443/
@@ -810,11 +812,6 @@ https://77bc30b29b.nxcli.io/wp-admin/in/gb
 https://77bc30b29b.nxcli.io/wp-admin/in/gb/client/loading.php
 https://77bc30b29b.nxcli.io/wp-admin/in/gb/client/login.php
 https://77bc30b29b.nxcli.io/wp-admin/in/gb/client/submit.php
-https://79b07b679b.nxcli.io/wp-admin/afrb.php
-https://79b07b679b.nxcli.io/wp-admin/in/
-https://79b07b679b.nxcli.io/wp-admin/in/index.php
-https://79b07b679b.nxcli.io/wp-admin/in/rot/RP8j5N.php
-https://79b07b679b.nxcli.io/wp-admin/in/rot/jTV9XI.php
 https://7cw4t017.r.eu-north-1.awstrack.me/L0/https:%2F%2Fmail8.wonderberg.online%2Fgfc%2Findex.html/1/0110019c4336560b-61f79607-3e54-4ca4-a366-e3987f24673b-000000/m3rpi2QpxPSxNZj36DH92c7_JYE=249
 https://7dp6qchccnzjn2d16xxuxa096ufai5n.github.io/fmtipgdoqsecj/6447f6gziqx.html
 https://7sevenways.kesug.com/anti3/1.php
@@ -855,11 +852,6 @@ https://aag.entrate-gov.us.cc/TzfvloMAFK/api/input
 https://aag.entrate-gov.us.cc/it
 https://aag.entrate-gov.us.cc/wf116_it_Taxrefund/mine/footer.html
 https://aag.entrate-gov.us.cc/wf116_it_Taxrefund/mine/header.html
-https://aag.entrate.cam/TzfvloMAFK/api
-https://aag.entrate.cam/TzfvloMAFK/api/input
-https://aag.entrate.cam/it
-https://aag.entrate.cam/wf116_it_Taxrefund/mine/footer.html
-https://aag.entrate.cam/wf116_it_Taxrefund/mine/header.html
 https://aag.infosgov.cam/TzfvloMAFK/api
 https://aag.infosgov.cam/TzfvloMAFK/api/input
 https://aag.infosgov.cam/it
@@ -965,9 +957,6 @@ https://agencedevoyage.era-abbruch.de/
 https://agencedevoyage.era-abbruch.de/d8577b90997aa884f0051882f6095cfe/
 https://agenfine.cfd/it
 https://agenfine.cfd/npm_static/020c3c6f9280a315e8425d7f92e15bcd0cdda1b2
-https://agentalchemyofsouls.localto.net
-https://agentalchemyofsouls.localto.net/comando/
-https://agentalchemyofsouls.localto.net/heartbeat
 https://agenvziaentrae.click/check/
 https://agenvziaentrae.click/check/index
 https://agenvziaontrae.click/check/
@@ -1112,8 +1101,6 @@ https://agenziaentratei.bond/IT
 https://agenziaentratei.bond/IT/index
 https://agenziaentratei.icu/IT/
 https://agenziaentratei.icu/IT/index
-https://agenziaentratei.it.com/IT/
-https://agenziaentratei.it.com/IT/index
 https://agenziaentratei.shop/IT
 https://agenziaentratei.shop/IT/index
 https://agenziaentrateitgov.net/it
@@ -1122,6 +1109,8 @@ https://agenziaentrateits.com/it/index
 https://agenziaentratel.shop/IT/
 https://agenziaentratel.shop/IT/index
 https://agenziaentrateo.it.com/IT
+https://agenziaentrateriscossionenxvk.artnzy.com/ServiziWeb/area-riservata/portale/ret_url/9ae2089b758b342ca7381278a0b4df0d/
+https://agenziaentrateriscossionenxvk.artnzy.com/ServiziWeb/area-riservata/portale/ret_url/9ae2089b758b342ca7381278a0b4df0d/key.php
 https://agenziaentrates.com/it/
 https://agenziaentrates.com/it/index
 https://agenziaentrates.net/it/
@@ -1208,10 +1197,6 @@ https://agenzivaentrae.click/check/index
 https://agenzivaentrze.click/check/
 https://agenzivaentrze.click/check/index
 https://aggio3ds.com/support/billing/
-https://aggiorna-dati.com/inps/
-https://aggiorna-dati.com/inps/save_selfie.php
-https://aggiorna-dati.com/inps/track.php
-https://aggiorna-dati.com/inps/upload_ajax.php
 https://aggiorna-it.eu.cc/APP/uplapk-load/oo1_sign.apk
 https://aggiorna-online.eu.cc/app/uplapk-load/avg.apk
 https://aggiornainfo.top/inps/
@@ -1307,6 +1292,9 @@ https://ama.zon-prime.de/pages/desktop/remboursement/prime/moyen.php
 https://amitoto.dropdaydistro.com/ita
 https://amitoto.dropdaydistro.com/ita/7eebf84714fe978a379e639c9d5ea08e/
 https://amitoto.dropdaydistro.com/ita/7eebf84714fe978a379e639c9d5ea08e/send.php
+https://amitoto.dropdaydistro.com/ita/df0602ffd89200b3b17230067d6b949e
+https://amitoto.dropdaydistro.com/ita/df0602ffd89200b3b17230067d6b949e/send.php
+https://amitoto.dropdaydistro.com/ita?KDHYEIU=XENJHEB
 https://amzno.sbs/002/AGNZMU1EhDgFtRH4TXpjPQ==TmHHHHWuydUETE5TJTXpjPQ==TmpTRF54EDCVzJfHDI764TXpjPQ==sig=srv_azig_protect/index.php
 https://anatomies.shop/25KQ93S6/7KP7P124/
 https://andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br/RBjtF_Meus_Arquivos_De_Texto//02.txt
@@ -1357,7 +1345,6 @@ https://api.telegram.org/bot8211652090
 https://api.telegram.org/bot8221976234
 https://api.telegram.org/bot8238861080
 https://api.telegram.org/bot8238861080:AAGYMcmBDJdnl_tuSpKXuGaurvr3qq8Awd8/
-https://api.telegram.org/bot8245417384
 https://api.telegram.org/bot8303966484
 https://api.telegram.org/bot8310033772
 https://api.telegram.org/bot8322947909
@@ -1375,6 +1362,7 @@ https://api.telegram.org/bot8509994566
 https://api.telegram.org/bot8512555116
 https://api.telegram.org/bot8512555116:AAG0X6w-tKKSElrCDhHIaPtXgy2wIRma4pg/
 https://api.telegram.org/bot8523309986
+https://api.telegram.org/bot8539470413
 https://api.telegram.org/bot8555624187
 https://api.telegram.org/bot8562923397
 https://api.telegram.org/bot8562923397:AAF1tY0PXdDjd6b8infxDcQiDOlg46w4hCI/
@@ -1552,7 +1540,6 @@ https://bafybeigkyehyj2ynjwmj3v5sc4j27rmy2dumljfurr7kshzu7fyxkfbx7u.ipfs.dweb.li
 https://bagsrad.com/main/ghtnhonmthnsthewnvbfk/common/toplesbas.exe
 https://bancaifis.ltd
 https://banginghouzemusic.co/
-https://banginghouzemusic.co/XecA6dEc/
 https://banner.kaidaisoo.contractors/TTX5Tdgaj9@MRsa/
 https://baraltransportes.com/de.php
 https://baraltransportes.com/home.php
@@ -1580,7 +1567,6 @@ https://beyondquarantine.com/payment2
 https://bgzxRnWerTHdtO6iqYUZSMWTEUhWPFFjOFS.kingdomkeysforleaders.com/I0ehUf
 https://bgzxRnWerTHdtO6iqYUZSMWTEUhWPFFjOFS.kingdomkeysforleaders.com/I0ehUfF8Q4
 https://bhlgeczasvzkbrrzsfmf.jumlamoon.com/GkDibfxWDWAiSbaATwRLxo7fCW3Nf26WrfXoVN7pc9y5LaS5WTbJcj18vw
-https://bileteral.xyz/
 https://billingapi.squarenwtmpyesz6iwl1szvxzbgi.com/d7cf8/2145dc7e6b8cab9d/B9Us/
 https://billingapi.squarenwtmpyesz6iwl1szvxzbgi.com/d7cf8/2145dc7e6b8cab9d/B9Us/captcha.php
 https://binaryanswers.com/
@@ -1646,6 +1632,8 @@ https://broguenko.su/asfase
 https://bronzewindow.live/
 https://bronzewindow.live/p/StOpL45R
 https://brothersaccountants.co.uk/dodo/it/it/index.php
+https://brt.kvjtr.help/track-it
+https://brt.kvjtr.help/track-it/index
 https://bsc-dataseed1.binance.org/
 https://bsc-dataseed1.defibit.io/
 https://bsc-dataseed1.ninicoin.io/
@@ -1694,6 +1682,9 @@ https://carrozzeriagaviese.it/GC54UT/features/msdpweb/xfefa303309c2.php
 https://carrozzeriagaviese.it/GC54UT/features/panel/classes/processor.php
 https://casino.lilksouskncsa.com/Bin/ScreenConnect.ClientSetup.msi
 https://caz.serviziohopstapagamnetpagatadouuelor.xyz/index.html
+https://cb354241.tw1.ru/pa/pa/
+https://cb354241.tw1.ru/pa/pa/cc.php
+https://cb354241.tw1.ru/pa/pa/send.php
 https://cbxwuj.cloud-tlds.com//qlcoyt/
 https://cc686491.tw1.ru
 https://cc686491.tw1.ru/pa/
@@ -1758,8 +1749,6 @@ https://clicks-wix-com-gh87uiydhedty.blogspot.gr/
 https://clicksappear.info/
 https://clicktellecom.com.br/.dir/fineco/
 https://clicktellecom.com.br/.dir/fineco/login.html
-https://client-checkid832847-renewovh.lindabrindisi.it/OH/c19a167b252b987ece5d868145e0cf27/Pay.html
-https://client-checkid832847-renewovh.lindabrindisi.it/OH/c19a167b252b987ece5d868145e0cf27/cart.html
 https://climagateindustries.nl/wp-admin/pago1337
 https://climagateindustries.nl/wp-admin/pago1337/
 https://cliow.com/I6vFG
@@ -1783,10 +1772,11 @@ https://cofeemager.jdevcloud.com/laccca/msdpweb/index.php
 https://cofeemager.jdevcloud.com/laccca/panel/classes/processor.php
 https://colaservta.rouesabico.es/FindSpA/home/
 https://colaservta.rouesabico.es/FindSpA/home/fi-load.php
+https://comercialusario-clientesoporte.baresalmeria.com/Hyyddfuzt/?6TY289WEB=GODra2ED
+https://comercialusario-clientesoporte.baresalmeria.com/Hyyddfuzt/e76585ee924ece6f41b499c3fff2a146/
 https://compimento.ba/7/
 https://compimento.ba/7/ConvertedFile.txt
 https://compimento.ba/ConvertedFile.txt
-https://comune-roma-it.netlify.app/
 https://comunicazionsumup-id23454.3owazlab.info/i07xek/XfNeOl0nq6yH0Eqwv2kB41Z8dEtDDIRRIcQhW4oXkv65ROXcPS1RWmNxhNLtHTjDGxz8xBvz
 https://comunicazionsumup-id23454.3owazlab.info/i07xek/XfNeOl0nq6yH0Eqwv2kB41Z8dEtDDIRRIcQhW4oXkv65ROXcPS1RWmNxhNLtHTjDGxz8xBvz/login
 https://configlan.com/?5419084
@@ -2066,9 +2056,12 @@ https://dydjjnnjg7jeb.cloudfront.net
 https://dyh2ai-7g6050-xpx299-n2ob1jve68.s3.us-east-1.amazonaws.com/etoc6bn8xuvktd1oa2cfmjw6dn0jg4
 https://dytqv.apostolicgangs.com/kil
 https://dytqv.apostolicgangs.com/kil/
+https://dytqv.apostolicgangs.com/kil/1443f0a0caa1b8ef6be33b4068465956
+https://dytqv.apostolicgangs.com/kil/1443f0a0caa1b8ef6be33b4068465956/send.php
 https://dytqv.apostolicgangs.com/kil/69dd078e49defa1315a912f1e84eadfc
 https://dytqv.apostolicgangs.com/kil/8a1ca9b657b2774f0d57ade758aac486/
 https://dytqv.apostolicgangs.com/kil/8a1ca9b657b2774f0d57ade758aac486/send.php
+https://dytqv.apostolicgangs.com/kil?DHHDHUIA=SNJSBWBAQ
 https://e791b42f3d8c4f6085a21f4d9c0e6b389c2f6d14.edwin-media.nl/dove-posso-scaricare-app-ing.html
 https://eburd.sfo3.cdn.digitaloceanspaces.com/roundcube.html
 https://echoratio.com/330077/D149/
@@ -2119,14 +2112,8 @@ https://ertqo-tres.cloudaccess.host/wp-unbv/session.php
 https://erw.bsttotrk.com/2GXK7W/7K7ZX4J/
 https://espto.sreiiohstammsouwvvqeytzuyoqmisq.club/index.html
 https://espto.sreiiohstammsouwvvqeytzuyoqmisq.club/vyJxgmyGqq-xM3gX1-xjdebPAS-ng1xGEF/index.html
-https://etage-saly.com/inps/
-https://etage-saly.com/inps/auth/details.php
-https://etage-saly.com/inps/auth/post.php
-https://etage-saly.com/inps/auth/wait.php
 https://etecindia.in/it/fatture/
 https://etecindia.in/it/fatture/loading.php
-https://evanmelk.com/skip
-https://evanmelk.com/skip/
 https://evehallconsulting.com/
 https://event.trk-vextrom.com/register/event_log/mg6l0394g1
 https://eventul.com/it/i.php
@@ -2183,21 +2170,11 @@ https://finanizea-gov.us.cc/KnilNrSVUI/api/input
 https://finanizea-gov.us.cc/ink
 https://finanizea-gov.us.cc/npm_static/mine/footer.html
 https://finanizea-gov.us.cc/npm_static/mine/header.html
-https://finanma-gov.cfd/ZxfDEuXiZZ/api
-https://finanma-gov.cfd/ZxfDEuXiZZ/api/input
-https://finanma-gov.cfd/it
-https://finanma-gov.cfd/npm_static/mine/footer.html
-https://finanma-gov.cfd/npm_static/mine/header.html
 https://finanscea-gov.us.cc/KnilNrSVUI/api
 https://finanscea-gov.us.cc/KnilNrSVUI/api/input
 https://finanscea-gov.us.cc/ink
 https://finanscea-gov.us.cc/wf116_it_Taxrefund/mine/footer.html
 https://finanscea-gov.us.cc/wf116_it_Taxrefund/mine/header.html
-https://finanza-gov.cfd/XdjHSOmvKj/api
-https://finanza-gov.cfd/XdjHSOmvKj/api/input
-https://finanza-gov.cfd/it
-https://finanza-gov.cfd/npm_static/mine/footer.html
-https://finanza-gov.cfd/npm_static/mine/header.html
 https://finanza-gov.us.cc/IVTutMugIK/api
 https://finanza-gov.us.cc/IVTutMugIK/api/input
 https://finanza-gov.us.cc/it3
@@ -2213,11 +2190,6 @@ https://finanza-gov3.us.cc/KnilNrSVUI/api/input
 https://finanza-gov3.us.cc/ink
 https://finanza-gov3.us.cc/npm_static/mine/footer.html
 https://finanza-gov3.us.cc/npm_static/mine/header.html
-https://finanza-govs.us.cc/TzfvloMAFK/api
-https://finanza-govs.us.cc/TzfvloMAFK/api/input
-https://finanza-govs.us.cc/it
-https://finanza-govs.us.cc/wf116_it_Taxrefund/mine/footer.html
-https://finanza-govs.us.cc/wf116_it_Taxrefund/mine/header.html
 https://finanza-govz.us.cc/TzfvloMAFK/api
 https://finanza-govz.us.cc/TzfvloMAFK/api/input
 https://finanza-govz.us.cc/it
@@ -2368,6 +2340,8 @@ https://friendly-chebyshev.43-131-39-49.plesk.page/code.php
 https://friendly-chebyshev.43-131-39-49.plesk.page/sendlog.php
 https://fruit.vicre.biz.id/
 https://fse-wf.cfd/kj.php
+https://fse.lat/YyhnLW23qGfKy7n1vWgy
+https://fse.lat/i8h/b7jk
 https://fv9bvq92.r.us-east-1.awstrack.me/L0
 https://fv9bvq92.r.us-east-1.awstrack.me/L0/
 https://fv9bvq92.r.us-east-1.awstrack.me/L0/h
@@ -2416,6 +2390,7 @@ https://gjizivji.hosted.phplist.com/lists/
 https://gkkdjd.dubaidubuy.net/OEU0UTErS3hSQnBiSWlFWnpPVTgxeGRJNWN5Z2FIaTZjVEVub1h6c3J1L2FOVjJoUklJbXE3bm5PVkFPeEtmR29ZelBFMzlVdGFmcVlXRnB2aFpzNWF1cnFHcUFPYXk2UEhWWlpFcDBvSG89
 https://glacat.com/uE22eyb
 https://globalize584.kondsbrok.co.in/screenwriting301/
+https://glowed.eu.cc/it
 https://gls-grouxp.top/
 https://gls-grouxp.top/index
 https://gls.consegna.us.cc/it/
@@ -2424,6 +2399,8 @@ https://gls.estos.us.cc/it
 https://gls.ktit.us.cc/api/16fdf156d1360e06
 https://gls.ktit.us.cc/api/9f2118f4b080e120
 https://gls.ktit.us.cc/it/card.html
+https://gls.manca.us.cc/it/index
+https://gls.manca.us.cc/it/index/index
 https://gls.tiit.us.cc/it
 https://gls.tiit.us.cc/it/address.html
 https://gls.tiit.us.cc/it/address2.html
@@ -2439,6 +2416,7 @@ https://go.sparkpostmail1.com/f/a/4s5Ekiox2KXuesZbNlhAEQ~~/AAWD0BA~/pYYcgsa-aTJi
 https://go.undiksha.ac.id/v6HIJ
 https://go.undiksha.ac.id/xAUhf
 https://go.vendoroo.ai/9cmhPA
+https://go.vendoroo.ai/MhZmTW
 https://go.vendoroo.ai/XJApNc
 https://go.vendoroo.ai/iMJ3Lx
 https://go.vendoroo.ai/ncrry4
@@ -2466,10 +2444,6 @@ https://gorillagears.shop/
 https://gouvtess.com/support/billing/
 https://gov-agenziaentrate-it.cfd/it/
 https://gov-agenziaentrate-it.cfd/it/index
-https://gov-ptcontrol.com/~sampleco/api/ping
-https://gov-ptcontrol.com/~sampleco/api/submit
-https://gov-ptcontrol.com/~sampleco/c/info
-https://gov-ptcontrol.com/~sampleco/c/info/page/379
 https://gov.aag.it.com/it
 https://gov.aagita.us.cc/TzfvloMAFK/api
 https://gov.aagita.us.cc/TzfvloMAFK/api/input
@@ -2906,7 +2880,6 @@ https://hxms.eu.cc/RqlmrsPAJj/api/input
 https://hxms.eu.cc/it
 https://hxms.eu.cc/store-e8445d/footer.html
 https://hxms.eu.cc/store-e8445d/header.html
-https://hxpm.ronghecapital.net/
 https://hypeitalisupp.justns.ru/pagopa/log/msdpweb/
 https://hypeitalisupp.justns.ru/pagopa/log/msdpweb/card.php
 https://hypeitalisupp.justns.ru/pagopa/log/msdpweb/loading3.php
@@ -2920,7 +2893,6 @@ https://hypeservices.portalserviceweb.com/RJEaK8G-d8FRDx-qfBxnXu/index.html
 https://hypeservices.portalserviceweb.com/RJEaK8G-d8FRDx-qfBxnXu/index.php
 https://hypeservices.portalserviceweb.com/misc/index.php
 https://hyrcynianturnout.autos/
-https://hzgi.okxxz.org/
 https://i1k7zi80.a2hosted.com/cq0/zer/sord/699c347f22d33-83592.php
 https://i1k7zi80.a2hosted.com/cq0/zer/sord/can.php
 https://i1k7zi80.a2hosted.com/cq0/zer/sord/ops.php
@@ -2981,8 +2953,6 @@ https://iensnspamspeks.jdevcloud.com/it/pagopa/it/log/msdpweb/index.php
 https://iensnspamspeks.jdevcloud.com/it/pagopa/it/log/msdpweb/send.php
 https://ifdqes.qswgsb.com
 https://ifdqes.qswgsb.com/OEpoZEE2eW5SbzdXTFAvbEtYVllJQUszTzhrODVKSzBhaENpQUxVVDFlNnpZNktVZWhaUzFMWStXWmpVWEtBczh0a3lLNmVrL1ZGYkVXMXJIMUlLTnFnU1pvQVczVzFBa0lKNVQ2WjQzTUU9
-https://ifisnpl.ltd/
-https://ifisnplservicing.ltd/
 https://iitly.com/af
 https://ikzbels.hosted.phplist.com/lists/
 https://ilaoiyt.justns.ru/pago/msdpweb/index.php
@@ -3007,6 +2977,8 @@ https://indonsi.trilliecobnb.com/tabon
 https://indonsi.trilliecobnb.com/tabon/
 https://indonsi.trilliecobnb.com/tabon/2a2d37472a630bb94f9afc85e1966c18/
 https://indonsi.trilliecobnb.com/tabon/2a2d37472a630bb94f9afc85e1966c18/send.php
+https://indonsi.trilliecobnb.com/tabon/7c981d68ed560a97244ef14cda71ed7f/
+https://indonsi.trilliecobnb.com/tabon/7c981d68ed560a97244ef14cda71ed7f/send.php
 https://indonsi.trilliecobnb.com/tabon/b12300e6c3a1f746cbe06b5af965ed83/
 https://info-dati.com/inps/
 https://info-dati.com/inps/save_progress.php
@@ -3191,10 +3163,6 @@ https://it.areariservata-ing.app/logins.it/en/loading.php
 https://it.areariservata-ing.app/logins.it/en/login.php
 https://it.areariservata-ing.app/logins.it/home.php
 https://it.areariservata.ing/.it/home.php
-https://it.areariservata.ing/login.it/
-https://it.areariservata.ing/login.it/en/index.php
-https://it.areariservata.ing/login.it/en/loading.php
-https://it.areariservata.ing/login.it/en/login.php
 https://it.areariservata.ing/logins.it/en/index.php
 https://it.areariservata.ing/logins.it/en/loading.php
 https://it.areariservata.ing/logins.it/en/login.php
@@ -3286,6 +3254,7 @@ https://kiarn-it-autantificatione.fission.business/portal/email-code.php
 https://kiarn-it-autantificatione.fission.business/portal/login.php
 https://kid.lidiia.com.ua/
 https://kimono-navi.net/old/seek/rank.cgi?mode=link&amp;id=358&amp;url=https://t.co/9uwzBaDZ6s
+https://kitlaosubworklk.top/IzAtPhgYg0D0T/kyijsSPSryBxP09D0HD0m.html
 https://kjghjfhgdgfhkj.b-cdn.net/index.html
 https://klarna-it-coom.justns.ru/it/go.php
 https://klarna-it.muttinfo.com/2agDNzha-pdLV6N7jwV-NF8iiNJFD-l78SBLX/index.html
@@ -3384,6 +3353,7 @@ https://link24.kr/9tCLh4m
 https://link24.kr/B7bcsjg
 https://link24.kr/HHe885R
 https://linkedin.com/slink?code=dAP3uUgH?dAP3uUgHalk
+https://linkkita.me/hCx12c
 https://linkly.link/2bUlZ
 https://links.truthsocial.com/link/116169616196549546
 https://links.truthsocial.com/link/116188246581479560
@@ -3706,6 +3676,8 @@ https://nexelis.click/r2.php
 https://nexi-assistenza-a.verificatoit.dpdns.org/
 https://nexi-assistenza-b.verificatoit.dpdns.org/
 https://nexi-assistenza-c.verificatoit.dpdns.org/
+https://nexuopeys-italyy.replit.app/nexis/gd/
+https://nexuopeys-italyy.replit.app/nexis/gd/phone.html
 https://nh-livid.vercel.app/slip
 https://nieamkwo.blogspot.com/
 https://nihealthcoach.top/share/x/8614/cloud.php
@@ -3751,7 +3723,6 @@ https://notificadigi.bond/OIsDdVYmvY/api/input
 https://notificadigi.bond/it
 https://notificadigit.info/it/
 https://notificaiy-etc.com/index
-https://notifications.googleapis.com/email/redirect
 https://notificau.click/pay/
 https://notificaut.click/pay
 https://notificdigital.cc/pay/
@@ -3839,6 +3810,7 @@ https://ntsa.lnsdatl.cam/npm_static/mine/footer.html
 https://ntsa.lnsdatl.cam/npm_static/mine/header.html
 https://nuza.claimpoint.icu/povoje/fagi/jutami/vaviyo/index.php
 https://nvtifivch.click/pay
+https://nybanter.org/click
 https://nyc-estates.com/wordpress/index.html
 https://nyc-estates.com/wp-includes/js/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/
 https://nyc-estates.com/wp-includes/js/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/CM/LOG.php
@@ -3885,9 +3857,6 @@ https://osareariservataing.com/it/client/login.php
 https://osareariservataing.com/it/client/submit.php
 https://otfvzspwhgz06bxkbfqo.app-klarna-italy.com/it
 https://otoolbox.com/11sc
-https://oumrisa.tamariecc.com.es/zablem/
-https://oumrisa.tamariecc.com.es/zablem/home/Error.php
-https://oumrisa.tamariecc.com.es/zablem/home/int-log.php
 https://owayt.info/GGFDgHlE
 https://owbypeqvqwoze.com/
 https://oyrp.ams3.cdn.digitaloceanspaces.com/mpiu.html
@@ -3941,6 +3910,8 @@ https://pagopa-up-account-mkl233ds539408.codeanyapp.com/home/pagopa.it/
 https://pagopa.justns.ru/pagopa/log/
 https://pagopa.justns.ru/pagopa/log/msdpweb/index.php
 https://pagopa.justns.ru/pagopa/log/panel/classes/processor.php
+https://pagopa.xyz/it/
+https://pagopa.xyz/it/index
 https://pagopa2026.sviluppo.host/log/msdpweb/
 https://pagopa2026.sviluppo.host/log/panel/classes/processor.php
 https://pagopaaa.carcarrierhub.lk/pago/msdpweb/index.php
@@ -4061,6 +4032,21 @@ https://portale-agenziaentrate.cc/m/
 https://portale-agenziaentrate.cc/m/e6ldd16v
 https://portale-agenziaentrate.cc/page/
 https://portale-deut.com/deutsche.apk
+https://portale-inps.eu.cc/ID/
+https://portale-inps.eu.cc/ID/it/buste.php
+https://portale-inps.eu.cc/ID/it/fine.php
+https://portale-inps.eu.cc/ID/it/form1.php
+https://portale-inps.eu.cc/ID/it/form2.php
+https://portale-inps.eu.cc/ID/it/form3p.php
+https://portale-inps.eu.cc/ID/it/form3s.php
+https://portale-inps.eu.cc/ID/it/forminfolav.php
+https://portale-inps.eu.cc/ID/it/formselfie.php
+https://portale-inps.eu.cc/ID/it/index.php
+https://portale-inps.eu.cc/ID/it/infolav.php
+https://portale-inps.eu.cc/ID/it/seconda.php
+https://portale-inps.eu.cc/ID/it/selfie.php
+https://portale-inps.eu.cc/ID/it/terza_p.php
+https://portale-inps.eu.cc/ID/it/terza_s.php
 https://poste-italianepay-servizioclienti.thefinancepro.store/0651506520/
 https://poste-italianepay-servizioclienti.thefinancepro.store/0651506520/0068745105/api/data_log.php
 https://poste-italianepay-servizioclienti.thefinancepro.store/0651506520/0068745105/loading.html
@@ -4099,7 +4085,6 @@ https://proxwareingconnected.com/lt/2251799920069725/XQRAO9E97730L
 https://proznaj.cc/
 https://prqt.eu.cc/it
 https://prqt.eu.cc/it/index
-https://prtei.patronatoleone13.it/patre/
 https://prtscpayhold.wpenginepowered.com/pago/pago/msdpweb/index.php
 https://prtscpayhold.wpenginepowered.com/pago/pago/panel/classes/processor.php
 https://przmuhendislik.com/0512NL/
@@ -4130,6 +4115,7 @@ https://pulse-accsreq150126.com/
 https://pv-personal.de/inps/auth/details.php
 https://pv-personal.de/inps/auth/post.php
 https://q2psuv-u0ien6-ljor43-q6f9mkdizm.s3.us-east-1.amazonaws.com/rrh63xmemo6b7q9xb91ezu0ztn78re
+https://qas-switzerland.com/rodriquez/adalberto?em=soniamonastero@libero.it
 https://qoqixicop3.lovestoblog.com/
 https://qphi0pbv.protezione.app/ing.it/
 https://qqcgov.top/IT/
@@ -4229,9 +4215,6 @@ https://registroimprese.es-es.click/it/ask-data.php
 https://registroimprese.it-inv.click/it/
 https://registroimprese.it-inv.click/it/api/handler.php
 https://registroimprese.it-inv.click/it/ask-data.php
-https://registroimprese.mataca.it/it
-https://registroimprese.mataca.it/it/
-https://registroimprese.mataca.it/it/index.php
 https://relay-italynew.com:443/plugin
 https://remote.pstcorp.com/urlcounter/counter.aspx
 https://remoto.painelst.com/api/source-file.php?f=WebView2Loader.dll
@@ -4272,21 +4255,6 @@ https://rimb.infogovs.cam/TzfvloMAFK/api/input
 https://rimb.infogovs.cam/it
 https://rimb.infogovs.cam/wf116_it_Taxrefund/mine/footer.html
 https://rimb.infogovs.cam/wf116_it_Taxrefund/mine/header.html
-https://rimb.itdgov.cam/TzfvloMAFK/api
-https://rimb.itdgov.cam/TzfvloMAFK/api/input
-https://rimb.itdgov.cam/it
-https://rimb.itdgov.cam/wf116_it_Taxrefund/mine/footer.html
-https://rimb.itdgov.cam/wf116_it_Taxrefund/mine/header.html
-https://rimb.itegov.cam/TzfvloMAFK/api
-https://rimb.itegov.cam/TzfvloMAFK/api/input
-https://rimb.itegov.cam/it
-https://rimb.itegov.cam/wf116_it_Taxrefund/mine/footer.html.
-https://rimb.itegov.cam/wf116_it_Taxrefund/mine/header.html
-https://rimb.ltlay.cam/TzfvloMAFK/api
-https://rimb.ltlay.cam/TzfvloMAFK/api/input
-https://rimb.ltlay.cam/it
-https://rimb.ltlay.cam/wf116_it_Taxrefund/mine/footer.html
-https://rimb.ltlay.cam/wf116_it_Taxrefund/mine/header.html
 https://rimborso.avviso.us.cc/it/
 https://rimborso.avviso.us.cc/it/index
 https://rimborso.esito.us.cc/it/
@@ -4528,6 +4496,21 @@ https://sellm.startjsemmaokodposellapagamaneto.club/index.html
 https://send-multa.com
 https://send.nod.it.com/it
 https://send.vitl.it.com/it
+https://sendalit.com/it/
+https://sendalit.com/it/address.html
+https://sendalit.com/it/address2.html
+https://sendalit.com/it/card.html
+https://sendalit.com/it/home.html
+https://sendaoit.com/it/
+https://sendaoit.com/it/address.html
+https://sendaoit.com/it/address2.html
+https://sendaoit.com/it/card.html
+https://sendaoit.com/it/home.html
+https://sendarit.com/it/
+https://sendarit.com/it/address.html
+https://sendarit.com/it/address2.html
+https://sendarit.com/it/card.html
+https://sendarit.com/it/home.html
 https://sendasit.com/it/
 https://sendasit.com/it/address.html
 https://sendasit.com/it/address2.html
@@ -4584,6 +4567,7 @@ https://share.google/CA742huDXknGxLUU0
 https://share.google/DKPCv15IzgVJGxCTi
 https://share.google/EkXk7JYEh9KKcD2sd
 https://share.google/LkkfqECl4p4RfRO0A
+https://share.google/gTbXl9B2NrbSCzydH
 https://share.google/jUvy5BiGQyi1UEmvV
 https://share.google/jYSJR5q18pg4CYgB8
 https://share.google/kYgvvPaRWV3Mj9IhV
@@ -4607,7 +4591,6 @@ https://shorten.website/A5MqG5
 https://shorturl.asia/F6mB5
 https://shorturl.asia/T1EG7
 https://shorturl.asia/x6fxjf
-https://shorturl.at/2PAIa
 https://shorturl.at/CghTc
 https://shorturl.at/DL8Qd
 https://shorturl.at/IjwrS
@@ -4639,6 +4622,7 @@ https://sidialiitalie.jdevcloud.com/wp-content/laclasse/msdpweb/index.php
 https://sidialiitalie.jdevcloud.com/wp-content/laclasse/panel/classes/processor.php
 https://sidialiitalie.jdevcloud.com/wp-mai/msdpweb/index.php
 https://sidialiitalie.jdevcloud.com/wp-mai/panel/classes/processor.php
+https://siefoong.com/wp-content/con/roundcube/
 https://silver-otter-d909ef.netlify.app/
 https://simplest-snake-e73dfd.instawp.xyz/hu/drty/
 https://simplest-snake-e73dfd.instawp.xyz/hu/drty/confirmation.html
@@ -4763,7 +4747,6 @@ https://storage.googleapis.com/xcge-yrax-wu3p.n7e.xano.io/vault/Ba5quh4O/RNcP5FL
 https://storage.googleapis.com/xcge-yrax-wu3p.n7e.xano.io/vault/Ba5quh4O/RopbpmKXqf4aOw1orZnKxxHofg0/nLF9aA../mesep.html
 https://storage.googleapis.com/xcge-yrax-wu3p.n7e.xano.io/vault/Vv1Johsg/G4J76mMFTF3GCyNiNWSFrOmsKd8/lKMz3w../verifixx.html
 https://store-pop-yyy2.mkc1.digitaloceanspaces.com/cloud_billing_v10z-3-trustcloudpay.html
-https://store1.gofile.io/download/direct/7e1e86fb-fcf4-456f-901c-ef47ee6b4859/javax_lZyfRfPNrA_20260915_041302_427115.zip
 https://stradait.click/
 https://stradait.click/it
 https://stradait.digital/
@@ -4824,6 +4807,7 @@ https://submit-form.com/mY502GmPH
 https://submit-form.com/t9MKJzivo
 https://submit-form.com/tFhfAEaxQ
 https://submit-form.com/xbUS9n4SM
+https://subnewbosspt.top/zCNDRrmuWlH0x.html
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-admin/menu.html
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo
 https://sumas--noas-7640-userason.wpdevcloud.com/wp-content/plugins/ca-autolo/
@@ -4863,7 +4847,6 @@ https://systec.mg/itt/
 https://szvaeor.click/check/
 https://szvaeor.click/check/index
 https://t.co/1j4dUnCODv
-https://t.co/25rjp9FLwG
 https://t.co/7cFB9wzgyW
 https://t.co/9uwzBaDZ6s
 https://t.co/D937xqA0qG
@@ -4881,6 +4864,7 @@ https://t.co/wip1TudF4y
 https://t.co/xQWUoJ8FIL
 https://t.ly/de4Xx
 https://t.ly/sPHi_
+https://t.me/MRrobottttt070_bot
 https://t.mr/kLegr
 https://t.mr/pjpnk
 https://t.trklinkx.com/sl
@@ -4896,7 +4880,6 @@ https://t5.divawuta.cfd/3BDF78/804EDB0
 https://taap.it/9f3dshX
 https://taap.it/ILigm95
 https://taap.it/QvHQVUs
-https://tahrah.hosted.phplist.com/lists/lt.php
 https://tapiceriamedrano.com/skip1/
 https://tarckszodiac.site/it/ing/iting
 https://tdqehfuze.91sosu.com/
@@ -5024,11 +5007,11 @@ https://uqkiurpp.formester.com/f/xaCSWEpXh
 https://uqkiurpp.formester.com/forms/xaCSWEpXh/submissions.json
 https://uqr.ai/jH4qKlrR
 https://urlsand.esvalabs.com/?u=https://afolmet.myportfolio.com/&e=a39aa7eb&h=cfd2f198&f=y&p=y
+https://urly.it/31gxvh
 https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-admin/med/517ee604142128e/infos.php
 https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-admin/med/517ee604142128e/send.php
 https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-loa.html
 https://usc1.contabostorage.com/033941d03d9c489184023a21e9a838f6
-https://usc1.contabostorage.com/bbe06511d49e47f09d0e69062feb9abd:prop/webmail.html
 https://ushort.info/FIAVums0r3
 https://uswebzoomus.com/zoom
 https://utn.pl/ESINt
@@ -5241,9 +5224,6 @@ https://win-promorift.com/api/v2/internal/event
 https://win-promorift.com/api/v2/internal/lead
 https://win-promorift.com/ef/BSSQ4Q/4JFB8LB/index
 https://win-promorift.com/ef/BSSQ4Q/4KBB5T8/index
-https://wio.wjq.mybluehost.me/kl/
-https://wio.wjq.mybluehost.me/kl/core/check.php
-https://wio.wjq.mybluehost.me/kl/loader1.html
 https://wiving.online/agenziaentrateriscossione.gov.it/
 https://wiving.online/agenziaentrateriscossione.gov.it/get.php
 https://wix-006.blogspot.kr/
@@ -5292,11 +5272,8 @@ https://www-ing-rv2f.sicurezzaposta.app/ING_VER/
 https://www-ing-w0fe.protezione.app/ING_VER/
 https://www-ing-w65l.sicurezzaposta.app/ING_VER/
 https://www-ing-xw5v.sicurezzaposta.app/ING_VER/
-https://www-ing13tn.sicurezzaconto.co/ING_VER/
 https://www-ing1yjv.swisspostweb.app/ING_VER/
 https://www-ing8f1q.sicurezzaposta.app/ING-KYC/
-https://www-ingcbhq.sicurezzaposta.app/ING_VER/
-https://www-ingd6pe.sicurezzaconto.co/ING_VER/
 https://www-inghi3b.sicurezzaposta.app/ING_VER/
 https://www-ingmcmo.sicurezzaposta.app/ING_VER/
 https://www-ingp876.sicurezzaposta.app/ING_VER/
@@ -5353,8 +5330,6 @@ https://www.autzit.com/it/card.html
 https://www.autzit.com/it/home.html
 https://www.avggoldscreendig.autos/c
 https://www.beinke-aufzuege.de/components/com_media/fkqabmp/ntxqre1/edfwcgi/secured_stub.ps1
-https://www.bjerko.com/27ZXM7SG/7MMFJKFP/
-https://www.bjerko.com/27ZXM7SG/7MQTCJ7L/
 https://www.burmap.com/2W1Q1KK/3GT781SJ/
 https://www.butuko.com/26KPBKQ6/7MSNQ7G3/
 https://www.checkoutpartner.xyz/atlas2-it-999.html
@@ -5430,6 +5405,7 @@ https://www.contozit.com/it/address.html
 https://www.contozit.com/it/address2.html
 https://www.contozit.com/it/card.html
 https://www.contozit.com/it/home.html
+https://www.cross-efficient-board-customized.autos/1k663h3pp/
 https://www.customizedbestproactivesafe.autos/1k61nd2f1/l?
 https://www.dalmatas.cl/wp-admin/hype/continue/N56XI/Login.php
 https://www.datxit.com/it
@@ -5449,8 +5425,6 @@ https://www.fineeit.com/it/address2.html
 https://www.fineeit.com/it/card.html
 https://www.fineeit.com/it/home.html
 https://www.florkox.com/2W1Q1KK/3X577GHN/
-https://www.florkox.com/2W1Q1KK/415NXNR7/
-https://www.florkox.com/2W1Q1KK/42732NGM/
 https://www.fmlfmf6zfr.com/updt22tyryur/updt2/5pd4t2/4f084s/uni11/
 https://www.fmlfmf6zfr.com/updt22tyryur/updt2/5pd4t2/4f084s/uni11/locl.php
 https://www.fmlfmf6zfr.com/updt22tyryur/updt2/5pd4t2/4f084s/uni11/mob.php
@@ -5606,6 +5580,7 @@ https://www.letvit.com/it/card.html
 https://www.letvit.com/it/home.html
 https://www.lga.it.com/it
 https://www.libero-sicurezza.com/
+https://www.loom.autos/1k663s9lu/
 https://www.ltlit.com/it/address.html
 https://www.ltlit.com/it/address2.html
 https://www.ltlit.com/it/card.html
@@ -5683,8 +5658,6 @@ https://www.ppwit.com/it/address.html
 https://www.ppwit.com/it/address2.html
 https://www.ppwit.com/it/card.html
 https://www.ppwit.com/it/home.html
-https://www.premiumhostlogic.com/4JNHZ95/2C91L8ZD/
-https://www.premiumhostlogic.com/4JNHZ95/2C9315P1/
 https://www.presstima.com/cmp/279768Q/2R5FWN8/
 https://www.printomon.com/sss/control-panel/check-action.php
 https://www.printomon.com/sss/pages/check_condition.php
@@ -5700,7 +5673,6 @@ https://www.quitesmarteasyprt.autos/c
 https://www.reverseservotech.com/5ZG3PPK/2CGP9TL7/?sub1=1&sub2=116573455
 https://www.royaltytour.com.br/Pagooo196/Pagooo196/PagoPA/ATAC/pa/
 https://www.royaltytour.com.br/Pagooo196/Pagooo196/PagoPA/ATAC/pa/infos.php
-https://www.rse.it.com/it/home.html
 https://www.ru3s4trk.com/4RQSJ/4HZS9ZT/
 https://www.rutaclo.com/25KQ93S6/7KP7P124/
 https://www.s2bconstruction.ca/t4ji/
@@ -5757,7 +5729,6 @@ https://www.serxit.com/it/address2.html
 https://www.serxit.com/it/card.html
 https://www.serxit.com/it/home.html
 https://www.shirideitch.com/wp-content/uploads/2022/06/RedAlert.apk
-https://www.shorturl.at/2PAIa
 https://www.shorturl.at/FbHbx
 https://www.shorturl.at/JsLyZ
 https://www.shorturl.at/PIqP5
@@ -6206,9 +6177,6 @@ https://www.vnzit.com/it/home.html
 https://www.wcsit.vip/it
 https://www.wcsit.vip/it/home.html
 https://www.webinfoasg.com/cf/uploads/scudo.apk
-https://www.westwind-karriere.de/pago/
-https://www.westwind-karriere.de/pago/msdpweb/index.php
-https://www.westwind-karriere.de/pago/panel/classes/processor.php
 https://www.wkp20trk.com/9MRB641/H7JJ781/
 https://www.wlsit.vip/it/home.html
 https://www.wvraa.com/46pd/
